@@ -1,0 +1,1597 @@
+{
+  "hn": [
+    {
+      "source": "Hacker News",
+      "title": "JSON-LD Explained for Personal Websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "score": 79,
+      "hn_id": 48621517
+    },
+    {
+      "source": "Hacker News",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "score": 354,
+      "hn_id": 48620090
+    },
+    {
+      "source": "Hacker News",
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "score": 375,
+      "hn_id": 48617990
+    },
+    {
+      "source": "Hacker News",
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "url": "https://norvig.com/lispy.html",
+      "score": 139,
+      "hn_id": 48619831
+    },
+    {
+      "source": "Hacker News",
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "score": 360,
+      "hn_id": 48618455
+    },
+    {
+      "source": "Hacker News",
+      "title": "The minimum viable unit of saleable software",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "score": 72,
+      "hn_id": 48620342
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "url": "https://clevercrow.io",
+      "score": 17,
+      "hn_id": 48621645
+    },
+    {
+      "source": "Hacker News",
+      "title": "An Embedded Linux on a Single Floppy",
+      "url": "https://github.com/w84death/floppinux",
+      "score": 34,
+      "hn_id": 48594090
+    },
+    {
+      "source": "Hacker News",
+      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+      "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+      "score": 32,
+      "hn_id": 48571136
+    },
+    {
+      "source": "Hacker News",
+      "title": "A 3D voxel game engine written in APL",
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "score": 133,
+      "hn_id": 48616713
+    },
+    {
+      "source": "Hacker News",
+      "title": "15-minute at-home Lyme disease tick test",
+      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+      "score": 212,
+      "hn_id": 48584261
+    },
+    {
+      "source": "Hacker News",
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "score": 492,
+      "hn_id": 48608645
+    },
+    {
+      "source": "Hacker News",
+      "title": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "score": 329,
+      "hn_id": 48614844
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "url": "https://townsquare.cauenapier.com/",
+      "score": 231,
+      "hn_id": 48608570
+    },
+    {
+      "source": "Hacker News",
+      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+      "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
+      "score": 193,
+      "hn_id": 48599555
+    },
+    {
+      "source": "Hacker News",
+      "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
+      "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
+      "score": 34,
+      "hn_id": 48566824
+    },
+    {
+      "source": "Hacker News",
+      "title": "Proportional-Integral-Derivative (PID) controllers",
+      "url": "https://en.wikipedia.org/wiki/PID_controller",
+      "score": 77,
+      "hn_id": 48600311
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cocktail Optimization, an Integer Programming Problem",
+      "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
+      "score": 13,
+      "hn_id": 48597592
+    },
+    {
+      "source": "Hacker News",
+      "title": "Djevops: Self-Host Django Easily",
+      "url": "https://github.com/mherrmann/djevops",
+      "score": 4,
+      "hn_id": 48582629
+    },
+    {
+      "source": "Hacker News",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "score": 355,
+      "hn_id": 48613555
+    },
+    {
+      "source": "Hacker News",
+      "title": "Excessive nil pointer checks in Go",
+      "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
+      "score": 83,
+      "hn_id": 48583407
+    },
+    {
+      "source": "Hacker News",
+      "title": "Burnout is real for open source maintainers",
+      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+      "score": 99,
+      "hn_id": 48620462
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+      "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+      "score": 120,
+      "hn_id": 48619394
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
+      "url": "https://github.com/nikitadoudikov/claude-pulse",
+      "score": 22,
+      "hn_id": 48612844
+    },
+    {
+      "source": "Hacker News",
+      "title": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 325,
+      "hn_id": 48613755
+    },
+    {
+      "source": "Hacker News",
+      "title": "The brain was not designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "score": 338,
+      "hn_id": 48615569
+    },
+    {
+      "source": "Hacker News",
+      "title": "Two Qwen3 models on one DGX Spark: the residency math",
+      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
+      "score": 80,
+      "hn_id": 48587865
+    },
+    {
+      "source": "Hacker News",
+      "title": "Epoll vs. io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "score": 246,
+      "hn_id": 48613872
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Commodore Callback 8020 smart flip phone",
+      "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+      "score": 106,
+      "hn_id": 48587619
+    }
+  ],
+  "reddit": [],
+  "devto": [
+    {
+      "source": "Dev.to",
+      "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
+      "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53",
+      "score": 79,
+      "description": "Hey everyone, Ben here.  If you’ve been following the journey of DEV and our open source project..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+      "url": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
+      "score": 98,
+      "description": "I promised myself that starting this week I'd switch to lighter topics. But on Monday, my JSNation..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Congrats to the Gemma 4 Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc",
+      "score": 86,
+      "description": "We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65",
+      "score": 63,
+      "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Turning Gemma 4 into an Old Korean Translator",
+      "url": "https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop",
+      "score": 32,
+      "description": "There’s something uniquely beautiful about old books. The smell of weathered paper, the texture of..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Congrats to the Hermes Agent Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0",
+      "score": 39,
+      "description": "We are thrilled to announce the winners of the Hermes Agent Challenge! Over the past few weeks, the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "AI took the friction out of my work. Then I found out the friction was holding up two things: my ideas and my brakes. Twenty-five years in a confession.",
+      "url": "https://dev.to/sfrangulov/ai-took-the-friction-out-of-my-work-then-i-found-out-the-friction-was-holding-up-two-things-my-4971",
+      "score": 19,
+      "description": "For a long time now the news and the roundups have all said the same thing. AI will take away the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
+      "url": "https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf",
+      "score": 69,
+      "description": "This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "score": 46,
+      "description": "After posting several articles about the impact of AI on developers and sharing resources to help..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Quando o Pomodoro não funciona: organização realista para TDAH em burnout",
+      "url": "https://dev.to/pddesign/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c",
+      "score": 139,
+      "description": "Um relato honesto de alguém que trabalha com design, vive com TDAH e está cansada de dicas..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Tower Before Dusk: I Built a Puzzle Game for Humans and AI",
+      "url": "https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao",
+      "score": 48,
+      "description": "This is a submission for the June Solstice Game Jam  It's interesting how the most exciting ideas..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Tailwind CSS4: Why Those Inline Styles Are Actually More Scalable - A Senior CSS Developer's Guide",
+      "url": "https://dev.to/cathylai/tailwind-css4-why-those-inline-styles-are-actually-more-scalable-a-senior-css-developers-guide-hdj",
+      "score": 40,
+      "description": "So you have heard about the Tailwind CSS and want to incorporate into your new project. But those..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "What Does the Windows REFRESH button really do?",
+      "url": "https://dev.to/lovestaco/what-does-the-windows-refresh-button-really-do-4kh",
+      "score": 30,
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "score": 18,
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Welcome Thread - v380",
+      "url": "https://dev.to/devteam/welcome-thread-v380-oi4",
+      "score": 85,
+      "description": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Ask a DEV Community Mod! 🚀",
+      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk",
+      "score": 112,
+      "description": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "What are your goals for the week? #183",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-183-2hp3",
+      "score": 16,
+      "description": "What are your goals for the week?    What are you building this week? What do you want to..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Asked AI to Write My Commit Messages It Was Embarrassing.",
+      "url": "https://dev.to/harsh2644/i-asked-ai-to-write-my-commit-messages-it-was-embarrassing-a6i",
+      "score": 42,
+      "description": "I asked AI to write a commit message for me last week The code change was simple. A bug fix One line,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "End of the Year idea for DEV?",
+      "url": "https://dev.to/devengers/end-of-the-year-idea-for-dev-f8p",
+      "score": 29,
+      "description": "Hey all!  I have this thought in mind that we should all come together as a community to celebrate..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Gotta Earn 'Em All: The Gym Badges of Agentic Engineering (Part 1)",
+      "url": "https://dev.to/kaleman15/gotta-earn-em-all-the-gym-badges-of-agentic-engineering-part-1-5bff",
+      "score": 17,
+      "description": "There's a guy who stands at the entrance to the Indigo Plateau and will not let you through. Level 80..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Most Engineers Use AI. Few Engineer With It.",
+      "url": "https://dev.to/jeelvankhede/most-engineers-use-ai-few-engineer-with-it-3pd",
+      "score": 14,
+      "description": "Most software engineers I know use AI in some form now.  Maybe it is for debugging, boilerplate,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
+      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
+      "score": 10,
+      "description": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy...."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Why Your Search Bar Understands You",
+      "url": "https://dev.to/lovestaco/why-your-search-bar-understands-you-179p",
+      "score": 27,
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "\"Dead Man's Float\" Approach To Surviving the Wave",
+      "url": "https://dev.to/bumbulik0/dead-mans-float-approach-to-surviving-the-wave-2f99",
+      "score": 9,
+      "description": "Today, I want to talk about something that has absolutely nothing to do with code, system..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Winner of the AI-Pocalypse? The Full-Stack Generalist (But Probably Later Instead of Sooner)",
+      "url": "https://dev.to/linkbenjamin/the-winner-of-the-ai-pocalypse-the-full-stack-generalist-but-probably-later-instead-of-sooner-12n3",
+      "score": 8,
+      "description": "We've been told since late 2022 that \"within 6 months, we won't need software engineers anymore\". I..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "June Jubilee - An iOS Arcade Game",
+      "url": "https://dev.to/nithish_59/june-jubilee-a-swiftui-solstice-arcade-game-for-the-june-solstice-game-jam-232o",
+      "score": 18,
+      "description": "Hey DEV community! I'm Nithish. I built June Jubilee, a touch-first iOS arcade game made with SwiftUI..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Codewars did not teach me JavaScript. My job did.",
+      "url": "https://dev.to/shannonianthe/codewars-did-not-teach-me-javascript-my-job-did-379k",
+      "score": 26,
+      "description": "Why your brain learns faster by doing than by studying, and the neuroscience that explains..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "A Company AI Flagged My Article As \"Low Quality.\" I Ran the Numbers. Then I Ran Again.",
+      "url": "https://dev.to/xulingfeng/a-company-ai-flagged-my-article-as-low-quality-i-ran-the-numbers-then-i-ran-again-1h0p",
+      "score": 58,
+      "description": "A story about an AI content moderation system that flagged 347 posts since launch — and what..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "AWS Blocks: Full-Stack Building Blocks That Run Locally Without an AWS Account",
+      "url": "https://dev.to/aws-heroes/aws-blocks-full-stack-building-blocks-that-run-locally-without-an-aws-account-346l",
+      "score": 17,
+      "description": "Why I built a Custom Kiro Power to ship faster with AWS Blocks   Every developer building on..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Internmaxxing vs. Old Man Shakes Fist at Cloud",
+      "url": "https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd",
+      "score": 27,
+      "description": "Internmaxxing   Somebody on your timeline this week called intern code \"API slop.\"..."
+    }
+  ],
+  "lobsters": [
+    {
+      "source": "Lobsters",
+      "title": "Is AI ruining our skills? Early results are in and they’re not good",
+      "url": "https://www.nature.com/articles/d41586-026-01947-1",
+      "score": 61,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "postmarketOS v26.06 (Alpen Avocado) released",
+      "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
+      "score": 24,
+      "tags": [
+        "linux",
+        "mobile",
+        "release"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Performance improvements in libffi",
+      "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+      "score": 20,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Is anyone still using Emacs?",
+      "url": "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html",
+      "score": 68,
+      "tags": [
+        "emacs"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Apple Internals: Swift in the Kernel",
+      "url": "https://blog.calif.io/p/apple-internals-swift-in-the-kernel",
+      "score": 39,
+      "tags": [
+        "osdev",
+        "swift"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What's the advice for LLM poisoning of artwork these days?",
+      "url": "",
+      "score": 7,
+      "tags": [
+        "ask",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Robust Jobserver",
+      "url": "https://codeberg.org/mlugg/robust-jobserver/src/branch/main/spec.md",
+      "score": 14,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "AmigaOS 2: the greatest upgrade",
+      "url": "https://www.datagubbe.se/os20up/",
+      "score": 9,
+      "tags": [
+        "retrocomputing"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Windows UI evolution: Clicking an unassociated file",
+      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+      "score": 32,
+      "tags": [
+        "windows"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The Wholesale Plagiarism of Obscure Sorrows",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "score": 60,
+      "tags": [
+        "law"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Effective use-cases for LLMs",
+      "url": "https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/",
+      "score": 13,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Optimizing #[sqlx::test] rebuild time",
+      "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
+      "score": 6,
+      "tags": [
+        "performance",
+        "rust"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "OCaml 5.5.0 released",
+      "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+      "score": 89,
+      "tags": [
+        "compilers",
+        "ml",
+        "release"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Remote work increases social isolation",
+      "url": "https://www.science.org/doi/10.1126/science.aec7671",
+      "score": 3,
+      "tags": [
+        "practices"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "cl-bbs: the schemeBBS-like textboard rewritten in Common Lisp",
+      "url": "https://github.com/ryukinix/cl-bbs",
+      "score": 9,
+      "tags": [
+        "lisp",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Town Square, the community deserves connection",
+      "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
+      "score": 29,
+      "tags": [
+        "vibecoding",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Meet Alice. Alice is impatient",
+      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "score": 46,
+      "tags": [
+        "math",
+        "performance"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "loupe: A privacy-focused iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "score": 1,
+      "tags": [
+        "ios",
+        "privacy"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Improvements to std::format in C++26",
+      "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
+      "score": 8,
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Ansel: The Better Future for Darktable",
+      "url": "https://www.youtube.com/watch?v=1R7gdfJVH9Q",
+      "score": 9,
+      "tags": [
+        "graphics",
+        "release",
+        "video"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "SOCKMAP - TCP splicing of the future (2019)",
+      "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
+      "score": 9,
+      "tags": [
+        "linux",
+        "networking"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "There Are No Instances in atproto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 42,
+      "tags": [
+        "distributed",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Announcing the next generation of Distrobox",
+      "url": "https://distrobox.it/posts/announcing_distrobox_next/",
+      "score": 25,
+      "tags": [
+        "go",
+        "linux"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Mark-of-the-web and pinning installers to sites",
+      "url": "https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/",
+      "score": 6,
+      "tags": [
+        "security",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Forward to Hell? On Misusing Transparent DNS Forwarders For Amplification Attacks",
+      "url": "https://labs.ripe.net/author/mkoch/forward-to-hell-on-misusing-transparent-dns-forwarders-for-amplification-attacks/",
+      "score": 3,
+      "tags": [
+        "networking",
+        "security"
+      ]
+    }
+  ],
+  "github": [
+    {
+      "source": "GitHub Trending",
+      "title": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "score": 1829,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        palmier-io /\n\n      palmier-pro  \n\n    \n      macOS video editor built for AI",
+      "language": "Swift"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "score": 993,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        calesthio /\n\n      OpenMontage  \n\n    \n      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/chopratejas",
+      "url": "https://github.com/sponsors/chopratejas",
+      "score": 2617,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        chopratejas /\n\n      headroom  \n\n    \n      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "score": 543,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        tursodatabase /\n\n      turso  \n\n    \n      Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "score": 1131,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        penpot /\n\n      penpot  \n\n    \n      Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "score": 519,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        ZhuLinsen /\n\n      daily_stock_analysis  \n\n    \n      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "score": 253,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        koala73 /\n\n      worldmonitor  \n\n    \n      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "score": 415,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        bytedance /\n\n      deer-flow  \n\n    \n      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "score": 1029,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        DeusData /\n\n      codebase-memory-mcp  \n\n    \n      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/mukul975",
+      "url": "https://github.com/sponsors/mukul975",
+      "score": 445,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        mukul975 /\n\n      Anthropic-Cybersecurity-Skills  \n\n    \n      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/tw93",
+      "url": "https://github.com/sponsors/tw93",
+      "score": 1850,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        tw93 /\n\n      Pake  \n\n    \n      🤱🏻 Turn any webpage into a desktop app with one command.",
+      "language": "Rust"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "score": 56,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        mikumifa /\n\n      biliTickerBuy  \n\n    \n      b站会员购购票辅助工具",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "score": 288,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        smicallef /\n\n      spiderfoot  \n\n    \n      SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/topoteretes",
+      "url": "https://github.com/sponsors/topoteretes",
+      "score": 361,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        topoteretes /\n\n      cognee  \n\n    \n      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "score": 121,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        byoungd /\n\n      English-level-up-tips  \n\n    \n      An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/asgeirtj",
+      "url": "https://github.com/sponsors/asgeirtj",
+      "score": 366,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        asgeirtj /\n\n      system_prompts_leaks  \n\n    \n      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/mattpocock",
+      "url": "https://github.com/sponsors/mattpocock",
+      "score": 1441,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        mattpocock /\n\n      skills  \n\n    \n      Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell"
+    }
+  ],
+  "all": [
+    {
+      "source": "Hacker News",
+      "title": "JSON-LD Explained for Personal Websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "score": 79,
+      "hn_id": 48621517
+    },
+    {
+      "source": "Hacker News",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "score": 354,
+      "hn_id": 48620090
+    },
+    {
+      "source": "Hacker News",
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "score": 375,
+      "hn_id": 48617990
+    },
+    {
+      "source": "Hacker News",
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "url": "https://norvig.com/lispy.html",
+      "score": 139,
+      "hn_id": 48619831
+    },
+    {
+      "source": "Hacker News",
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "score": 360,
+      "hn_id": 48618455
+    },
+    {
+      "source": "Hacker News",
+      "title": "The minimum viable unit of saleable software",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "score": 72,
+      "hn_id": 48620342
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "url": "https://clevercrow.io",
+      "score": 17,
+      "hn_id": 48621645
+    },
+    {
+      "source": "Hacker News",
+      "title": "An Embedded Linux on a Single Floppy",
+      "url": "https://github.com/w84death/floppinux",
+      "score": 34,
+      "hn_id": 48594090
+    },
+    {
+      "source": "Hacker News",
+      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+      "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+      "score": 32,
+      "hn_id": 48571136
+    },
+    {
+      "source": "Hacker News",
+      "title": "A 3D voxel game engine written in APL",
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "score": 133,
+      "hn_id": 48616713
+    },
+    {
+      "source": "Hacker News",
+      "title": "15-minute at-home Lyme disease tick test",
+      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+      "score": 212,
+      "hn_id": 48584261
+    },
+    {
+      "source": "Hacker News",
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "score": 492,
+      "hn_id": 48608645
+    },
+    {
+      "source": "Hacker News",
+      "title": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "score": 329,
+      "hn_id": 48614844
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "url": "https://townsquare.cauenapier.com/",
+      "score": 231,
+      "hn_id": 48608570
+    },
+    {
+      "source": "Hacker News",
+      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+      "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
+      "score": 193,
+      "hn_id": 48599555
+    },
+    {
+      "source": "Hacker News",
+      "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
+      "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
+      "score": 34,
+      "hn_id": 48566824
+    },
+    {
+      "source": "Hacker News",
+      "title": "Proportional-Integral-Derivative (PID) controllers",
+      "url": "https://en.wikipedia.org/wiki/PID_controller",
+      "score": 77,
+      "hn_id": 48600311
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cocktail Optimization, an Integer Programming Problem",
+      "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
+      "score": 13,
+      "hn_id": 48597592
+    },
+    {
+      "source": "Hacker News",
+      "title": "Djevops: Self-Host Django Easily",
+      "url": "https://github.com/mherrmann/djevops",
+      "score": 4,
+      "hn_id": 48582629
+    },
+    {
+      "source": "Hacker News",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "score": 355,
+      "hn_id": 48613555
+    },
+    {
+      "source": "Hacker News",
+      "title": "Excessive nil pointer checks in Go",
+      "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
+      "score": 83,
+      "hn_id": 48583407
+    },
+    {
+      "source": "Hacker News",
+      "title": "Burnout is real for open source maintainers",
+      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+      "score": 99,
+      "hn_id": 48620462
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+      "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+      "score": 120,
+      "hn_id": 48619394
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
+      "url": "https://github.com/nikitadoudikov/claude-pulse",
+      "score": 22,
+      "hn_id": 48612844
+    },
+    {
+      "source": "Hacker News",
+      "title": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 325,
+      "hn_id": 48613755
+    },
+    {
+      "source": "Hacker News",
+      "title": "The brain was not designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "score": 338,
+      "hn_id": 48615569
+    },
+    {
+      "source": "Hacker News",
+      "title": "Two Qwen3 models on one DGX Spark: the residency math",
+      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
+      "score": 80,
+      "hn_id": 48587865
+    },
+    {
+      "source": "Hacker News",
+      "title": "Epoll vs. io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "score": 246,
+      "hn_id": 48613872
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Commodore Callback 8020 smart flip phone",
+      "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+      "score": 106,
+      "hn_id": 48587619
+    },
+    {
+      "source": "Dev.to",
+      "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
+      "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53",
+      "score": 79,
+      "description": "Hey everyone, Ben here.  If you’ve been following the journey of DEV and our open source project..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+      "url": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
+      "score": 98,
+      "description": "I promised myself that starting this week I'd switch to lighter topics. But on Monday, my JSNation..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Congrats to the Gemma 4 Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc",
+      "score": 86,
+      "description": "We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65",
+      "score": 63,
+      "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Turning Gemma 4 into an Old Korean Translator",
+      "url": "https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop",
+      "score": 32,
+      "description": "There’s something uniquely beautiful about old books. The smell of weathered paper, the texture of..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Congrats to the Hermes Agent Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0",
+      "score": 39,
+      "description": "We are thrilled to announce the winners of the Hermes Agent Challenge! Over the past few weeks, the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "AI took the friction out of my work. Then I found out the friction was holding up two things: my ideas and my brakes. Twenty-five years in a confession.",
+      "url": "https://dev.to/sfrangulov/ai-took-the-friction-out-of-my-work-then-i-found-out-the-friction-was-holding-up-two-things-my-4971",
+      "score": 19,
+      "description": "For a long time now the news and the roundups have all said the same thing. AI will take away the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
+      "url": "https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf",
+      "score": 69,
+      "description": "This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "score": 46,
+      "description": "After posting several articles about the impact of AI on developers and sharing resources to help..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Quando o Pomodoro não funciona: organização realista para TDAH em burnout",
+      "url": "https://dev.to/pddesign/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c",
+      "score": 139,
+      "description": "Um relato honesto de alguém que trabalha com design, vive com TDAH e está cansada de dicas..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Tower Before Dusk: I Built a Puzzle Game for Humans and AI",
+      "url": "https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao",
+      "score": 48,
+      "description": "This is a submission for the June Solstice Game Jam  It's interesting how the most exciting ideas..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Tailwind CSS4: Why Those Inline Styles Are Actually More Scalable - A Senior CSS Developer's Guide",
+      "url": "https://dev.to/cathylai/tailwind-css4-why-those-inline-styles-are-actually-more-scalable-a-senior-css-developers-guide-hdj",
+      "score": 40,
+      "description": "So you have heard about the Tailwind CSS and want to incorporate into your new project. But those..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "What Does the Windows REFRESH button really do?",
+      "url": "https://dev.to/lovestaco/what-does-the-windows-refresh-button-really-do-4kh",
+      "score": 30,
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "score": 18,
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Welcome Thread - v380",
+      "url": "https://dev.to/devteam/welcome-thread-v380-oi4",
+      "score": 85,
+      "description": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Ask a DEV Community Mod! 🚀",
+      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk",
+      "score": 112,
+      "description": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "What are your goals for the week? #183",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-183-2hp3",
+      "score": 16,
+      "description": "What are your goals for the week?    What are you building this week? What do you want to..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Asked AI to Write My Commit Messages It Was Embarrassing.",
+      "url": "https://dev.to/harsh2644/i-asked-ai-to-write-my-commit-messages-it-was-embarrassing-a6i",
+      "score": 42,
+      "description": "I asked AI to write a commit message for me last week The code change was simple. A bug fix One line,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "End of the Year idea for DEV?",
+      "url": "https://dev.to/devengers/end-of-the-year-idea-for-dev-f8p",
+      "score": 29,
+      "description": "Hey all!  I have this thought in mind that we should all come together as a community to celebrate..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Gotta Earn 'Em All: The Gym Badges of Agentic Engineering (Part 1)",
+      "url": "https://dev.to/kaleman15/gotta-earn-em-all-the-gym-badges-of-agentic-engineering-part-1-5bff",
+      "score": 17,
+      "description": "There's a guy who stands at the entrance to the Indigo Plateau and will not let you through. Level 80..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Most Engineers Use AI. Few Engineer With It.",
+      "url": "https://dev.to/jeelvankhede/most-engineers-use-ai-few-engineer-with-it-3pd",
+      "score": 14,
+      "description": "Most software engineers I know use AI in some form now.  Maybe it is for debugging, boilerplate,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
+      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
+      "score": 10,
+      "description": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy...."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Why Your Search Bar Understands You",
+      "url": "https://dev.to/lovestaco/why-your-search-bar-understands-you-179p",
+      "score": 27,
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "\"Dead Man's Float\" Approach To Surviving the Wave",
+      "url": "https://dev.to/bumbulik0/dead-mans-float-approach-to-surviving-the-wave-2f99",
+      "score": 9,
+      "description": "Today, I want to talk about something that has absolutely nothing to do with code, system..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Winner of the AI-Pocalypse? The Full-Stack Generalist (But Probably Later Instead of Sooner)",
+      "url": "https://dev.to/linkbenjamin/the-winner-of-the-ai-pocalypse-the-full-stack-generalist-but-probably-later-instead-of-sooner-12n3",
+      "score": 8,
+      "description": "We've been told since late 2022 that \"within 6 months, we won't need software engineers anymore\". I..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "June Jubilee - An iOS Arcade Game",
+      "url": "https://dev.to/nithish_59/june-jubilee-a-swiftui-solstice-arcade-game-for-the-june-solstice-game-jam-232o",
+      "score": 18,
+      "description": "Hey DEV community! I'm Nithish. I built June Jubilee, a touch-first iOS arcade game made with SwiftUI..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Codewars did not teach me JavaScript. My job did.",
+      "url": "https://dev.to/shannonianthe/codewars-did-not-teach-me-javascript-my-job-did-379k",
+      "score": 26,
+      "description": "Why your brain learns faster by doing than by studying, and the neuroscience that explains..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "A Company AI Flagged My Article As \"Low Quality.\" I Ran the Numbers. Then I Ran Again.",
+      "url": "https://dev.to/xulingfeng/a-company-ai-flagged-my-article-as-low-quality-i-ran-the-numbers-then-i-ran-again-1h0p",
+      "score": 58,
+      "description": "A story about an AI content moderation system that flagged 347 posts since launch — and what..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "AWS Blocks: Full-Stack Building Blocks That Run Locally Without an AWS Account",
+      "url": "https://dev.to/aws-heroes/aws-blocks-full-stack-building-blocks-that-run-locally-without-an-aws-account-346l",
+      "score": 17,
+      "description": "Why I built a Custom Kiro Power to ship faster with AWS Blocks   Every developer building on..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Internmaxxing vs. Old Man Shakes Fist at Cloud",
+      "url": "https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd",
+      "score": 27,
+      "description": "Internmaxxing   Somebody on your timeline this week called intern code \"API slop.\"..."
+    },
+    {
+      "source": "Lobsters",
+      "title": "Is AI ruining our skills? Early results are in and they’re not good",
+      "url": "https://www.nature.com/articles/d41586-026-01947-1",
+      "score": 61,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "postmarketOS v26.06 (Alpen Avocado) released",
+      "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
+      "score": 24,
+      "tags": [
+        "linux",
+        "mobile",
+        "release"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Performance improvements in libffi",
+      "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+      "score": 20,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Is anyone still using Emacs?",
+      "url": "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html",
+      "score": 68,
+      "tags": [
+        "emacs"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Apple Internals: Swift in the Kernel",
+      "url": "https://blog.calif.io/p/apple-internals-swift-in-the-kernel",
+      "score": 39,
+      "tags": [
+        "osdev",
+        "swift"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What's the advice for LLM poisoning of artwork these days?",
+      "url": "",
+      "score": 7,
+      "tags": [
+        "ask",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Robust Jobserver",
+      "url": "https://codeberg.org/mlugg/robust-jobserver/src/branch/main/spec.md",
+      "score": 14,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "AmigaOS 2: the greatest upgrade",
+      "url": "https://www.datagubbe.se/os20up/",
+      "score": 9,
+      "tags": [
+        "retrocomputing"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Windows UI evolution: Clicking an unassociated file",
+      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+      "score": 32,
+      "tags": [
+        "windows"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The Wholesale Plagiarism of Obscure Sorrows",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "score": 60,
+      "tags": [
+        "law"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Effective use-cases for LLMs",
+      "url": "https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/",
+      "score": 13,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Optimizing #[sqlx::test] rebuild time",
+      "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
+      "score": 6,
+      "tags": [
+        "performance",
+        "rust"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "OCaml 5.5.0 released",
+      "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+      "score": 89,
+      "tags": [
+        "compilers",
+        "ml",
+        "release"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Remote work increases social isolation",
+      "url": "https://www.science.org/doi/10.1126/science.aec7671",
+      "score": 3,
+      "tags": [
+        "practices"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "cl-bbs: the schemeBBS-like textboard rewritten in Common Lisp",
+      "url": "https://github.com/ryukinix/cl-bbs",
+      "score": 9,
+      "tags": [
+        "lisp",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Town Square, the community deserves connection",
+      "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
+      "score": 29,
+      "tags": [
+        "vibecoding",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Meet Alice. Alice is impatient",
+      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "score": 46,
+      "tags": [
+        "math",
+        "performance"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "loupe: A privacy-focused iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "score": 1,
+      "tags": [
+        "ios",
+        "privacy"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Improvements to std::format in C++26",
+      "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
+      "score": 8,
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Ansel: The Better Future for Darktable",
+      "url": "https://www.youtube.com/watch?v=1R7gdfJVH9Q",
+      "score": 9,
+      "tags": [
+        "graphics",
+        "release",
+        "video"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "SOCKMAP - TCP splicing of the future (2019)",
+      "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
+      "score": 9,
+      "tags": [
+        "linux",
+        "networking"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "There Are No Instances in atproto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 42,
+      "tags": [
+        "distributed",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Announcing the next generation of Distrobox",
+      "url": "https://distrobox.it/posts/announcing_distrobox_next/",
+      "score": 25,
+      "tags": [
+        "go",
+        "linux"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Mark-of-the-web and pinning installers to sites",
+      "url": "https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/",
+      "score": 6,
+      "tags": [
+        "security",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Forward to Hell? On Misusing Transparent DNS Forwarders For Amplification Attacks",
+      "url": "https://labs.ripe.net/author/mkoch/forward-to-hell-on-misusing-transparent-dns-forwarders-for-amplification-attacks/",
+      "score": 3,
+      "tags": [
+        "networking",
+        "security"
+      ]
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "score": 1829,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        palmier-io /\n\n      palmier-pro  \n\n    \n      macOS video editor built for AI",
+      "language": "Swift"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "score": 993,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        calesthio /\n\n      OpenMontage  \n\n    \n      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/chopratejas",
+      "url": "https://github.com/sponsors/chopratejas",
+      "score": 2617,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        chopratejas /\n\n      headroom  \n\n    \n      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "score": 543,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        tursodatabase /\n\n      turso  \n\n    \n      Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "score": 1131,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        penpot /\n\n      penpot  \n\n    \n      Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "score": 519,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        ZhuLinsen /\n\n      daily_stock_analysis  \n\n    \n      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "score": 253,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        koala73 /\n\n      worldmonitor  \n\n    \n      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "score": 415,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        bytedance /\n\n      deer-flow  \n\n    \n      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "score": 1029,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        DeusData /\n\n      codebase-memory-mcp  \n\n    \n      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/mukul975",
+      "url": "https://github.com/sponsors/mukul975",
+      "score": 445,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        mukul975 /\n\n      Anthropic-Cybersecurity-Skills  \n\n    \n      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/tw93",
+      "url": "https://github.com/sponsors/tw93",
+      "score": 1850,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        tw93 /\n\n      Pake  \n\n    \n      🤱🏻 Turn any webpage into a desktop app with one command.",
+      "language": "Rust"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "score": 56,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        mikumifa /\n\n      biliTickerBuy  \n\n    \n      b站会员购购票辅助工具",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "score": 288,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        smicallef /\n\n      spiderfoot  \n\n    \n      SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/topoteretes",
+      "url": "https://github.com/sponsors/topoteretes",
+      "score": 361,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        topoteretes /\n\n      cognee  \n\n    \n      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "score": 121,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        byoungd /\n\n      English-level-up-tips  \n\n    \n      An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/asgeirtj",
+      "url": "https://github.com/sponsors/asgeirtj",
+      "score": 366,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        asgeirtj /\n\n      system_prompts_leaks  \n\n    \n      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/mattpocock",
+      "url": "https://github.com/sponsors/mattpocock",
+      "score": 1441,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        mattpocock /\n\n      skills  \n\n    \n      Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell"
+    }
+  ]
+}

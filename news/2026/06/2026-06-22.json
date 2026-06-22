@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-22",
+  "sources": {
+    "hackernews": [
+      {
+        "rank": 1,
+        "title": "Deno Desktop",
+        "url": "https://deno.com",
+        "score": 964,
+        "comments": 354,
+        "desc": "Deno Desktop - デスクトップアプリケーションフレームワーク"
+      },
+      {
+        "rank": 2,
+        "title": "Codex logging bug may write TBs to local SSDs",
+        "url": "https://github.com/openai",
+        "score": 422,
+        "comments": 231,
+        "desc": "OpenAI CodexのログバグがローカルSSDにテラバイト級のデータを書き込む問題"
+      },
+      {
+        "rank": 3,
+        "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+        "url": "https://hustvl.github.io",
+        "score": 178,
+        "comments": 51,
+        "desc": "0.2Bパラメータで10Bクラスの性能を実現する画像インペインティングモデル"
+      }
+    ],
+    "reddit_programming": [
+      {
+        "title": "Reddit r/programming はログインが必要なため取得できませんでした",
+        "note": "Reddit requires login to view /r/programming/top"
+      }
+    ],
+    "devto": [
+      {
+        "title": "I Wish I Had Started Documenting My Tech Journey Earlier",
+        "url": "https://dev.to/hemapriya_kanagala/i-wish-i-had-started-documenting-my-tech-journey-earlier-5d7m",
+        "reactions": 35,
+        "comments": 9
+      },
+      {
+        "title": "Do localhost para o mundo",
+        "url": "https://dev.to/he4rt/do-localhost-para-o-mundo-2o44",
+        "reactions": 32,
+        "comments": 3
+      },
+      {
+        "title": "The Principle of Least AI",
+        "url": "https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0",
+        "reactions": 33,
+        "comments": 6
+      }
+    ],
+    "lobsters": [
+      {
+        "title": "help i accidentally a wigglegram",
+        "url": "https://lmao.center",
+        "score": 118,
+        "comments": 24
+      },
+      {
+        "title": "Is AI ruining our skills? Early results are in and they're not good",
+        "url": "https://nature.com",
+        "score": 92,
+        "comments": 59
+      },
+      {
+        "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers",
+        "url": "https://davidrevoy.com",
+        "score": 65,
+        "comments": 8
+      }
+    ]
+  }
+}
