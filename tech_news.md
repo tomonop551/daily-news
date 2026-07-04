@@ -1,34 +1,34 @@
-# 📱 Tech News - 2026-07-03
+# 📱 Tech News - 2026-07-04
 
 ## 🦄 Hacker News
 
-• [Giant trees have no trouble pumping water to top branches](https://news.ycombinator.com/item?id=48780870) (25)
-• [SearXNG: A free internet metasearch engine](https://news.ycombinator.com/item?id=48779454) (98)
-• [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://news.ycombinator.com/item?id=48780865) (22)
-• [Leanstral 1.5: Proof Abundance for All](https://news.ycombinator.com/item?id=48780801) (21)
-• [Dispersion loss counteracts embedding condensation in small language models](https://news.ycombinator.com/item?id=48780826) (13)
+• [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://news.ycombinator.com/item?id=48788283) (+114)
+• [Leaking YouTube creators' private videos](https://news.ycombinator.com/item?id=48786781) (+362)
+• [Google Books (or similar) all book scans – $200k bounty (2025)](https://news.ycombinator.com/item?id=48786838) (+216)
+• [Verizon is About to Break our Watches](https://news.ycombinator.com/item?id=48787329) (+84)
+• [Potential session/cache leakage between workspace instances or consumer accounts](https://news.ycombinator.com/item?id=48785485) (+246)
 
 ## 📝 Reddit r/programming
 
 • [Announcement: We've Updated The Rules, and April Is Finally Over](https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/)
 • [Linux has officially won](https://www.reddit.com/r/programming/comments/1um497y/linux_has_officially_won/)
 • [Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?](https://www.reddit.com/r/programming/comments/1umi3j4/hunting_a_16yearold_sqlite_bug_with_tla_is_dqlite/)
-• [Keynote: Linus Torvalds in Conversation with Dirk Hohndel](https://www.reddit.com/r/programming/comments/1umk39t/keynote_linus_torvalds_in_conversation_with_dirk/)
-• [Understanding Traceroute](https://www.reddit.com/r/programming/comments/1um4hyx/understanding_traceroute/)
+• [Division Polynomials of Elliptic Curves in Python](https://www.reddit.com/r/programming/comments/1un3czl/division_polynomials_of_elliptic_curves_in_python/)
+• [CI workflows on Tangled for Elixir](https://www.reddit.com/r/programming/comments/1un6n4e/ci_workflows_on_tangled_for_elixir/)
 
 ## 💻 Dev.to
 
-• [The Conspiracy Big Software Engineering Doesn't Want You to Know](https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299) (7)
-• [A Third Brain for your Second Brain](https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4) (6)
-• [Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants, and a $60K APAC Hackathon](https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp) (33)
-• [Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn) (6)
-• [Choosing the Right Tooling Layer for Your Agent](https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2) (6)
+• [From 0 Likes to Meme Engineer](https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l) (+8)
+• [A New Personal Best: What Six Months of Locking In Can Do](https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k) (+4)
+• [GPU Survivors: Can You Survive a 1T Parameter Inference Run?](https://dev.to/unitbuilds_cc/gpu-survivors-can-you-survive-a-1t-parameter-inference-run-476d) (+9)
+• [HTTP finally shipped QUERY. I fired it at production and the edge called it a bot.](https://dev.to/arvavit/http-finally-shipped-query-i-fired-it-at-production-and-the-edge-called-it-a-bot-7cj) (+5)
+• [Why I Ditched Socket.IO for Raw WebSockets (And What I Learned)](https://dev.to/nikhilsharma6/why-i-ditched-socketio-for-raw-websockets-and-what-i-learned-55i6) (+6)
 
 ## 🦞 Lobsters
 
-• Fourteener Lobsters (206)
-• [Why implementing ActivityPub is hard, and why it doesn't have to be](https://hackers.pub/@fedify/2026/why-activitypub-is-hard) (35)
-• [Clickhouse is winning the Observability Wars](https://matduggan.com/clickhouse-is-winning-the-observability-wars/) (54)
-• [crustc: Entirety of rustc, translated to C](https://github.com/FractalFir/crustc) (98)
-• [Arbitrary code execution breaking sandboxes in KDE Plasma](https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/) (35)
+• Fourteener Lobsters (+326)
+• [What should a personal website be?](https://ratfactor.com/cards/personal-website) (+36)
+• [Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender](https://blog.tymscar.com/posts/crinklecranklewalls/) (+19)
+• [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/) (+14)
+• [Why don't people use git properly?](https://deadsimpletech.com/blog/why-dont-people-use-git-properly) (+22)
 
