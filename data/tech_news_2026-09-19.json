@@ -1,0 +1,1929 @@
+{
+  "hn": [
+    {
+      "source": "Hacker News",
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "score": 489,
+      "hn_id": 49752041
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "score": 443,
+      "hn_id": 49754785
+    },
+    {
+      "source": "Hacker News",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 225,
+      "hn_id": 49758736
+    },
+    {
+      "source": "Hacker News",
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "score": 218,
+      "hn_id": 49750694
+    },
+    {
+      "source": "Hacker News",
+      "title": "I vibed a proof of Conway's conjecture",
+      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "score": 177,
+      "hn_id": 49755024
+    },
+    {
+      "source": "Hacker News",
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "score": 155,
+      "hn_id": 49755160
+    },
+    {
+      "source": "Hacker News",
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "score": 138,
+      "hn_id": 49759466
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "score": 121,
+      "hn_id": 49748553
+    },
+    {
+      "source": "Hacker News",
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "score": 121,
+      "hn_id": 49758028
+    },
+    {
+      "source": "Hacker News",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "score": 116,
+      "hn_id": 49757050
+    },
+    {
+      "source": "Hacker News",
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+      "score": 114,
+      "hn_id": 49746406
+    },
+    {
+      "source": "Hacker News",
+      "title": "Minimal Phone 2",
+      "url": "https://minimalcompany.com/",
+      "score": 114,
+      "hn_id": 49749369
+    },
+    {
+      "source": "Hacker News",
+      "title": "How SpaceX streamlined the Raptor engine",
+      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+      "score": 100,
+      "hn_id": 49746626
+    },
+    {
+      "source": "Hacker News",
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "score": 81,
+      "hn_id": 49758580
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "score": 71,
+      "hn_id": 49758419
+    },
+    {
+      "source": "Hacker News",
+      "title": "Our brain evolved from two primitive nervous systems that merged: Study",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "score": 65,
+      "hn_id": 49755533
+    },
+    {
+      "source": "Hacker News",
+      "title": "The first new cat species discovered in 100 years",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "score": 64,
+      "hn_id": 49744704
+    },
+    {
+      "source": "Hacker News",
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+      "score": 52,
+      "hn_id": 49749724
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "score": 39,
+      "hn_id": 49758615
+    },
+    {
+      "source": "Hacker News",
+      "title": "A search-and-inference database from scratch in pure Zig",
+      "url": "https://antfly.io/research/antfly-zig",
+      "score": 29,
+      "hn_id": 49714157
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "score": 26,
+      "hn_id": 49758689
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Ax-check.com – Can agents use your product?",
+      "url": "https://www.ax-check.com/",
+      "score": 23,
+      "hn_id": 49744416
+    },
+    {
+      "source": "Hacker News",
+      "title": "Senior Engineers Are the Next DRAM Shortage",
+      "url": "https://blog.herlein.com/post/build-another-engineer/",
+      "score": 13,
+      "hn_id": 49759970
+    },
+    {
+      "source": "Hacker News",
+      "title": "\"From Geometry to Algebra and Back Again: 4000 Years of Papers\" (2023) [video]",
+      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
+      "score": 6,
+      "hn_id": 49740371
+    }
+  ],
+  "reddit": [
+    {
+      "source": "Reddit",
+      "title": "The scourge of x86 emulation",
+      "url": "https://www.reddit.com/r/programming/comments/1wjicct/the_scourge_of_x86_emulation/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "iceoryx2 0.10 released: full flatbuffer integration, zero copy ipc with unbounded data, robust events",
+      "url": "https://www.reddit.com/r/programming/comments/1wjxzv9/iceoryx2_010_released_full_flatbuffer_integration/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Be alert: targeted attacks on prominent Rustaceans | Rust Blog",
+      "url": "https://www.reddit.com/r/programming/comments/1wj1x9m/be_alert_targeted_attacks_on_prominent_rustaceans/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Make Code Review Your Default Next Task",
+      "url": "https://www.reddit.com/r/programming/comments/1wjont5/make_code_review_your_default_next_task/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Conway's Law and Programming Languages",
+      "url": "https://www.reddit.com/r/programming/comments/1wjl4rq/conways_law_and_programming_languages/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Understanding Raft By Implementing It From Scratch - Part 2",
+      "url": "https://www.reddit.com/r/programming/comments/1wjlfk0/understanding_raft_by_implementing_it_from/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Making a game for the GBA and PC from the same codebase",
+      "url": "https://www.reddit.com/r/programming/comments/1wjcb2c/making_a_game_for_the_gba_and_pc_from_the_same/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Memory Management, Explained Simply (Part 1)",
+      "url": "https://www.reddit.com/r/programming/comments/1wjc0p9/memory_management_explained_simply_part_1/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://www.reddit.com/r/programming/comments/1wjurwy/leave_the_class_path_in_the_rearview_mirror/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Mojo 1.1 released, now accepting community contributions to the compiler",
+      "url": "https://www.reddit.com/r/programming/comments/1wizhuv/mojo_11_released_now_accepting_community/",
+      "score": 0,
+      "comments": 0
+    }
+  ],
+  "devto": [
+    {
+      "source": "Dev.to",
+      "title": "What was your win this week?!",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb",
+      "score": 39,
+      "description": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "tags": [
+        "weeklyretro"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Programming Is Mostly Learning How to Investigate Things",
+      "url": "https://dev.to/sizzlebop/programming-is-mostly-learning-how-to-investigate-things-2hf6",
+      "score": 30,
+      "description": "When I first started learning programming, I thought getting better at it meant knowing more...",
+      "tags": [
+        "programming",
+        "beginners",
+        "debugging",
+        "career"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm",
+      "score": 28,
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Node.js 26.9 turns node:ffi on by default at 37 nanoseconds a call",
+      "url": "https://dev.to/alexgeorgiev17/nodejs-269-turns-nodeffi-on-by-default-at-37-nanoseconds-a-call-ngj",
+      "score": 17,
+      "description": "Node.js 26.9 enables node:ffi by default. I measured a trivial FFI call at 37ns against 35ns for a compiled N-API addon and 3ns for plain JS, then found where it helps, where it silently corrupts data, and where it segfaults.",
+      "tags": [
+        "node",
+        "performance",
+        "javascript",
+        "devops"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Bottleneck Moved From Writing Code to Proving It",
+      "url": "https://dev.to/debashish_ghosal/the-bottleneck-moved-from-writing-code-to-proving-it-5bpm",
+      "score": 15,
+      "description": "The bottleneck moved, and most teams haven't noticed. It isn't writing anymore. It's proving.   I...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "testing"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "From Solo Builder to Co-Founder: How I Launched a Tech Holding Company at 12 Years Old",
+      "url": "https://dev.to/koda2026/from-solo-builder-to-co-founder-how-i-launched-a-tech-holding-company-at-12-years-old-22f8",
+      "score": 13,
+      "description": "Three weeks ago, I published an article that said: \"I'm 12. I built 4 apps. Now I'm stuck. I'm...",
+      "tags": [
+        "webdev",
+        "startup"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Built an AI Agent That Audits AWS (And It Can't Touch Anything)",
+      "url": "https://dev.to/aws-builders/i-built-an-ai-agent-that-audits-aws-and-it-cant-touch-anything-4nip",
+      "score": 12,
+      "description": "Build a read-only AI agent in Kiro Crew that audits AWS for security and cost, cites real resource IDs, computes real pricing, and cannot change a thing.",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "security"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "GMail, please let me hide delegated accounts on my iPhone",
+      "url": "https://dev.to/peter/gmail-please-let-me-hide-delegated-accounts-on-my-iphone-30e",
+      "score": 11,
+      "description": "Gmail's delegated accounts have started showing up in the app on my iPhone, and I find this...",
+      "tags": [
+        "ios",
+        "design",
+        "productivity",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "score": 11,
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "NestJS Testing Module: Provider Overrides (with Cheat Sheet)",
+      "url": "https://dev.to/parsajiravand/nestjs-testing-module-provider-overrides-with-cheat-sheet-1o79",
+      "score": 9,
+      "description": "A complete guide to NestJS's testing module: how overrideProvider really wires mocks, why get() fails on scoped providers, and using useMocker.",
+      "tags": [
+        "nestjs",
+        "node",
+        "typescript",
+        "tutorial"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "The beauty and terror of negative feedback",
+      "url": "https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d",
+      "score": 7,
+      "description": "Giving my first conference talk recently was an absolute thrill. I was excited, not overly nervous,...",
+      "tags": [
+        "mentalhealth",
+        "techtalks",
+        "learning",
+        "speaking"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "How to make a fool of yourself 101",
+      "url": "https://dev.to/unitbuilds/how-to-make-a-fool-of-yourself-101-39op",
+      "score": 6,
+      "description": "So as some of you know, I had a technical interview with Wasmer today. I was up till midnight last...",
+      "tags": [
+        "ai",
+        "career",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Turned My Editor Into a Pokémon World That Levels Up When I Actually Ship",
+      "url": "https://dev.to/uribejr/i-turned-my-editor-into-a-pokemon-world-that-levels-up-when-i-actually-ship-4pg6",
+      "score": 6,
+      "description": "Repo: https://github.com/UribeJr/pokedev  Most editor pets are wallpaper.  Cute? Sure. Connected to...",
+      "tags": [
+        "showdev",
+        "vscode",
+        "typescript",
+        "productivity"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Architecting Battery-Efficient Geofencing for Automated Sound Profiles",
+      "url": "https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-automated-sound-profiles-4f33",
+      "score": 5,
+      "description": "It was the middle of a Friday afternoon prayer session at the local masjid. The room was heavy with...",
+      "tags": [
+        "android",
+        "kotlin",
+        "androiddev",
+        "mobiledev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "WebAssembly Beyond the Browser: Building a Sandboxed Plugin System in Node.js & Go",
+      "url": "https://dev.to/mindinu/webassembly-beyond-the-browser-building-a-sandboxed-plugin-system-in-nodejs-go-eo0",
+      "score": 5,
+      "description": "For years, WebAssembly (WASM) was pitched primarily as a way to bring high-performance C++ or Rust...",
+      "tags": [
+        "architecture",
+        "backend",
+        "security",
+        "webassembly"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Building a Production-Grade End-to-End MLOps Pipeline from Scratch",
+      "url": "https://dev.to/naman_2004/building-a-production-grade-end-to-end-mlops-pipeline-from-scratch-l9h",
+      "score": 5,
+      "description": "A step-by-step walkthrough of building a complete MLOps pipeline with DVC, MLflow, FastAPI, Docker, GitHub Actions, Prometheus, and Evidently AI — covering the entire ML lifecycle from data versioning to drift detection.",
+      "tags": [
+        "mlops",
+        "machinelearning",
+        "python",
+        "devops"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I almost replaced Lovable with a $5 VPS, Dokploy and one MCP gateway",
+      "url": "https://dev.to/k2sodev/i-almost-replaced-lovable-with-a-5-vps-dokploy-and-one-mcp-gateway-3mn9",
+      "score": 4,
+      "description": "Lovable is nice. You describe a site, an agent writes it, you click publish. It also costs $25–50 a...",
+      "tags": [
+        "ai",
+        "devops",
+        "opensource",
+        "mcp"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Build an Agent UI That Explains Its State with Angular Signals",
+      "url": "https://dev.to/raju_dandigam/build-an-agent-ui-that-explains-its-state-with-angular-signals-28op",
+      "score": 3,
+      "description": "Most chat interfaces have three states: empty, loading, and finished. Agent workflows have many...",
+      "tags": [
+        "angular",
+        "ai",
+        "typescript",
+        "webdev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Testing webhook retries deterministically: a fault sequence per Idempotency-Key",
+      "url": "https://dev.to/emma_teelylabs/testing-webhook-retries-deterministically-a-fault-sequence-per-idempotency-key-1k19",
+      "score": 3,
+      "description": "Random error rates tell you whether a sender retries. A scripted sequence per idempotency key reproduces one exact failure, every run, in CI.",
+      "tags": [
+        "webdev",
+        "testing",
+        "devops",
+        "showdev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Jev vs Claude: Who Wins?",
+      "url": "https://dev.to/bengreenberg/jev-vs-claude-who-wins-4mln",
+      "score": 2,
+      "description": "I did not need Jev to beat Claude or Kimi on a benchmark. I needed to know whether I could trust it...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "typescript",
+        "todayilearned"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Three ways I miscounted my own AI agents, and what the transcripts actually say",
+      "url": "https://dev.to/kostakurta/three-ways-i-miscounted-my-own-ai-agents-and-what-the-transcripts-actually-say-4kjg",
+      "score": 2,
+      "description": "Claude Code writes a JSONL transcript for every session, and another one for every subagent it...",
+      "tags": [
+        "typescript",
+        "ai",
+        "claude",
+        "opensource"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "3,022 Malicious Gems, and OpenAI Calls It “Benign”",
+      "url": "https://dev.to/cseeman/3022-malicious-gems-and-openai-calls-it-benign-4cf6",
+      "score": 1,
+      "description": "OpenAI says its agents did benign tasks on RubyGems. JFrog counted 3,022 malicious packages, one file was named hack.rb, and the agents kept coming back after they were blocked.",
+      "tags": [
+        "ai",
+        "ruby",
+        "rubygems",
+        "security"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Agentic AI Security: Credentials and Permissions Define the Blast Radius",
+      "url": "https://dev.to/gitguardian/agentic-ai-security-credentials-and-permissions-define-the-blast-radius-4o3i",
+      "score": 1,
+      "description": "Agentic AI Security: Credentials and Permissions Define the Blast Radius   Prompt injection...",
+      "tags": [
+        "security",
+        "ai",
+        "appsec",
+        "devsecops"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Laurels from the Edge: 4 Overlooked #weekendchallenge Projects That Deserved Way More Love",
+      "url": "https://dev.to/mike_cramblett_7050830f0c/laurels-from-the-edge-4-overlooked-weekendchallenge-projects-that-deserved-way-more-love-2gge",
+      "score": 1,
+      "description": "Sup Dev.to!  This is Mike Cramblett, a fellow human developer, coding weirdo, and creator of...",
+      "tags": [
+        "weekendchallenge",
+        "devchallenge",
+        "opensource",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Why count++ Breaks Under Concurrency: Atomicity, Visibility & Ordering — Concurrency Programming (1)",
+      "url": "https://dev.to/thinkerqaq/concurrency-programming-1-start-with-the-hardware-from-count-to-atomicity-visibility-and-1a0o",
+      "score": 1,
+      "description": "Table of Contents    1. Start with the von Neumann Architecture 2. What Does count++...",
+      "tags": [
+        "programming",
+        "computerscience",
+        "performance",
+        "java"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "git blame Told Me I Wrote 767 Lines I Didn't Write",
+      "url": "https://dev.to/lexosi/git-blame-told-me-i-wrote-767-lines-i-didnt-write-1pp6",
+      "score": 1,
+      "description": "git blame Told Me I Wrote 767 Lines I Didn't Write   Before writing about a gate, I checked...",
+      "tags": [
+        "ai",
+        "git",
+        "llm",
+        "agents"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "What Happens When Chip Volume Doubles but the Grid Does Not",
+      "url": "https://dev.to/deanlee/what-happens-when-chip-volume-doubles-but-the-grid-does-not-485c",
+      "score": 1,
+      "description": "Nvidia projected a doubling of semiconductor shipment volume next year alongside a 70 percent revenue increase. In an industry facing four-year transformer backlogs and extended utility interconnection queues, shipping twice as much silicon forces a choice between stranded inventory and accelerated asset write-downs.",
+      "tags": [
+        "ai",
+        "economics",
+        "hardware",
+        "infrastructure"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "164 disposable computers, one judging afternoon, and a question nobody had time to ask",
+      "url": "https://dev.to/lolocoding/164-disposable-computers-one-judging-afternoon-and-a-question-nobody-had-time-to-ask-19da",
+      "score": 0,
+      "description": "Does it build?   I have run hackathon judging the careful way. By that I mean: rubrics...",
+      "tags": [
+        "hackathon",
+        "showdev",
+        "opensource",
+        "devrel"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Lies, Damn Lies and Benchmarks",
+      "url": "https://dev.to/codenameone/lies-damn-lies-and-benchmarks-1f4p",
+      "score": 0,
+      "description": "Codename One tackles GC, maps, startup, and JavaScript overhead, and adds native drag and drop plus cross-device continuity. Javadoc joins website search as we prepare for Android API 37.",
+      "tags": [
+        "java",
+        "mobile",
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "[Boost]",
+      "url": "https://dev.to/dannwaneri/-2phg",
+      "score": 0,
+      "description": "1 in 10 Sites Have a Broken llms.txt. Reddit Included.                                         ...",
+      "tags": []
+    }
+  ],
+  "lobsters": [
+    {
+      "source": "Lobsters",
+      "title": "Everybody's Lost Their Minds",
+      "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+      "score": 189,
+      "tags": [
+        "culture"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What is still exciting in tech?",
+      "url": "",
+      "score": 110,
+      "tags": [
+        "ask",
+        "culture"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+      "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+      "score": 93,
+      "tags": [
+        "reversing",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+      "score": 91,
+      "tags": [
+        "rust",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "We Must Create the Shit Machine",
+      "url": "https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine",
+      "score": 85,
+      "tags": [
+        "satire"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "I expected better from Google",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "score": 82,
+      "tags": [
+        "law"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Typst makes big strides",
+      "url": "https://lwn.net/Articles/1092993/",
+      "score": 60,
+      "tags": [
+        "a11y",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+      "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+      "score": 59,
+      "tags": [
+        "plt",
+        "rust"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "I don't like passkeys",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "score": 35,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Labeled matches: why is this not in every regex engine?",
+      "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
+      "score": 27,
+      "tags": [
+        "performance",
+        "rust"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Introducing System One Models & Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "score": 26,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What are you doing this weekend?",
+      "url": "",
+      "score": 20,
+      "tags": [
+        "ask",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "There's no point at which turning your brain off will work",
+      "url": "https://danluu.com/brain-off/",
+      "score": 13,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
+      "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
+      "score": 13,
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Benchmarking Wild vs Mold",
+      "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+      "score": 12,
+      "tags": [
+        "compilers",
+        "performance"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Hacking OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "score": 11,
+      "tags": [
+        "security",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
+      "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+      "score": 10,
+      "tags": [
+        "lisp"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Internet Phone Book",
+      "url": "https://internetphonebook.net/",
+      "score": 10,
+      "tags": [
+        "art",
+        "culture",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Release v0.29.0 · warp-tech/warpgate",
+      "url": "https://github.com/warp-tech/warpgate/releases/tag/v0.29.0",
+      "score": 7,
+      "tags": [
+        "release",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Bend",
+      "url": "https://bend-lang.com/",
+      "score": 7,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "score": 7,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill",
+      "url": "https://seclists.org/oss-sec/2026/q3/822",
+      "score": 7,
+      "tags": [
+        "linux",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "awesome-tunneling: List of tunneling software and services",
+      "url": "https://github.com/anderspitman/awesome-tunneling",
+      "score": 5,
+      "tags": [
+        "devops",
+        "networking"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The Bikeshed email — PHKs Bikeshed",
+      "url": "https://phk.freebsd.dk/sagas/bikeshed/",
+      "score": 2,
+      "tags": [
+        "freebsd",
+        "historical"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "sudo and OpenDoas timestamp files (2020)",
+      "url": "https://π.duncano.de/sudo-doas-timestamp-files",
+      "score": 1,
+      "tags": [
+        "security",
+        "unix"
+      ]
+    }
+  ],
+  "github": [
+    {
+      "source": "GitHub",
+      "title": "codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "score": 548074,
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown"
+    },
+    {
+      "source": "GitHub",
+      "title": "sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "url": "https://github.com/sindresorhus/awesome",
+      "score": 507492,
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "public-apis/public-apis: A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "score": 481423,
+      "description": "A collective list of free APIs",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "freeCodeCamp/freeCodeCamp: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "score": 455739,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "EbookFoundation/free-programming-books: :books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "score": 397133,
+      "description": ":books: Freely available programming books",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 390051,
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "score": 370655,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "nilbuild/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "score": 367620,
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "vinta/awesome-python: The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "url": "https://github.com/vinta/awesome-python",
+      "score": 321538,
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "score": 320152,
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "score": 288517,
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "practical-tutorials/project-based-learning: Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "score": 283768,
+      "description": "Curated list of project-based tutorials",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 265221,
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 261926,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "react/react: The library for web and native user interfaces.",
+      "url": "https://github.com/react/react",
+      "score": 250566,
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript"
+    }
+  ],
+  "all": [
+    {
+      "source": "GitHub",
+      "title": "codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "score": 548074,
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown"
+    },
+    {
+      "source": "GitHub",
+      "title": "sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "url": "https://github.com/sindresorhus/awesome",
+      "score": 507492,
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "public-apis/public-apis: A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "score": 481423,
+      "description": "A collective list of free APIs",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "freeCodeCamp/freeCodeCamp: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "score": 455739,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "EbookFoundation/free-programming-books: :books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "score": 397133,
+      "description": ":books: Freely available programming books",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 390051,
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "score": 370655,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "nilbuild/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "score": 367620,
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "vinta/awesome-python: The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "url": "https://github.com/vinta/awesome-python",
+      "score": 321538,
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "score": 320152,
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "score": 288517,
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "practical-tutorials/project-based-learning: Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "score": 283768,
+      "description": "Curated list of project-based tutorials",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 265221,
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 261926,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "react/react: The library for web and native user interfaces.",
+      "url": "https://github.com/react/react",
+      "score": 250566,
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "score": 489,
+      "hn_id": 49752041
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "score": 443,
+      "hn_id": 49754785
+    },
+    {
+      "source": "Hacker News",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 225,
+      "hn_id": 49758736
+    },
+    {
+      "source": "Hacker News",
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "score": 218,
+      "hn_id": 49750694
+    },
+    {
+      "source": "Lobsters",
+      "title": "Everybody's Lost Their Minds",
+      "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+      "score": 189,
+      "tags": [
+        "culture"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "I vibed a proof of Conway's conjecture",
+      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "score": 177,
+      "hn_id": 49755024
+    },
+    {
+      "source": "Hacker News",
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "score": 155,
+      "hn_id": 49755160
+    },
+    {
+      "source": "Hacker News",
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "score": 138,
+      "hn_id": 49759466
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "score": 121,
+      "hn_id": 49748553
+    },
+    {
+      "source": "Hacker News",
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "score": 121,
+      "hn_id": 49758028
+    },
+    {
+      "source": "Hacker News",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "score": 116,
+      "hn_id": 49757050
+    },
+    {
+      "source": "Hacker News",
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+      "score": 114,
+      "hn_id": 49746406
+    },
+    {
+      "source": "Hacker News",
+      "title": "Minimal Phone 2",
+      "url": "https://minimalcompany.com/",
+      "score": 114,
+      "hn_id": 49749369
+    },
+    {
+      "source": "Lobsters",
+      "title": "What is still exciting in tech?",
+      "url": "",
+      "score": 110,
+      "tags": [
+        "ask",
+        "culture"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "How SpaceX streamlined the Raptor engine",
+      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+      "score": 100,
+      "hn_id": 49746626
+    },
+    {
+      "source": "Lobsters",
+      "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+      "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+      "score": 93,
+      "tags": [
+        "reversing",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+      "score": 91,
+      "tags": [
+        "rust",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "We Must Create the Shit Machine",
+      "url": "https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine",
+      "score": 85,
+      "tags": [
+        "satire"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "I expected better from Google",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "score": 82,
+      "tags": [
+        "law"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "score": 81,
+      "hn_id": 49758580
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "score": 71,
+      "hn_id": 49758419
+    },
+    {
+      "source": "Hacker News",
+      "title": "Our brain evolved from two primitive nervous systems that merged: Study",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "score": 65,
+      "hn_id": 49755533
+    },
+    {
+      "source": "Hacker News",
+      "title": "The first new cat species discovered in 100 years",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "score": 64,
+      "hn_id": 49744704
+    },
+    {
+      "source": "Lobsters",
+      "title": "Typst makes big strides",
+      "url": "https://lwn.net/Articles/1092993/",
+      "score": 60,
+      "tags": [
+        "a11y",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+      "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+      "score": 59,
+      "tags": [
+        "plt",
+        "rust"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+      "score": 52,
+      "hn_id": 49749724
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "score": 39,
+      "hn_id": 49758615
+    },
+    {
+      "source": "Dev.to",
+      "title": "What was your win this week?!",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb",
+      "score": 39,
+      "description": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "tags": [
+        "weeklyretro"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "I don't like passkeys",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "score": 35,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Programming Is Mostly Learning How to Investigate Things",
+      "url": "https://dev.to/sizzlebop/programming-is-mostly-learning-how-to-investigate-things-2hf6",
+      "score": 30,
+      "description": "When I first started learning programming, I thought getting better at it meant knowing more...",
+      "tags": [
+        "programming",
+        "beginners",
+        "debugging",
+        "career"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "A search-and-inference database from scratch in pure Zig",
+      "url": "https://antfly.io/research/antfly-zig",
+      "score": 29,
+      "hn_id": 49714157
+    },
+    {
+      "source": "Dev.to",
+      "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm",
+      "score": 28,
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Labeled matches: why is this not in every regex engine?",
+      "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
+      "score": 27,
+      "tags": [
+        "performance",
+        "rust"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "score": 26,
+      "hn_id": 49758689
+    },
+    {
+      "source": "Lobsters",
+      "title": "Introducing System One Models & Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "score": 26,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Ax-check.com – Can agents use your product?",
+      "url": "https://www.ax-check.com/",
+      "score": 23,
+      "hn_id": 49744416
+    },
+    {
+      "source": "Lobsters",
+      "title": "What are you doing this weekend?",
+      "url": "",
+      "score": 20,
+      "tags": [
+        "ask",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Node.js 26.9 turns node:ffi on by default at 37 nanoseconds a call",
+      "url": "https://dev.to/alexgeorgiev17/nodejs-269-turns-nodeffi-on-by-default-at-37-nanoseconds-a-call-ngj",
+      "score": 17,
+      "description": "Node.js 26.9 enables node:ffi by default. I measured a trivial FFI call at 37ns against 35ns for a compiled N-API addon and 3ns for plain JS, then found where it helps, where it silently corrupts data, and where it segfaults.",
+      "tags": [
+        "node",
+        "performance",
+        "javascript",
+        "devops"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Bottleneck Moved From Writing Code to Proving It",
+      "url": "https://dev.to/debashish_ghosal/the-bottleneck-moved-from-writing-code-to-proving-it-5bpm",
+      "score": 15,
+      "description": "The bottleneck moved, and most teams haven't noticed. It isn't writing anymore. It's proving.   I...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "testing"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Senior Engineers Are the Next DRAM Shortage",
+      "url": "https://blog.herlein.com/post/build-another-engineer/",
+      "score": 13,
+      "hn_id": 49759970
+    },
+    {
+      "source": "Dev.to",
+      "title": "From Solo Builder to Co-Founder: How I Launched a Tech Holding Company at 12 Years Old",
+      "url": "https://dev.to/koda2026/from-solo-builder-to-co-founder-how-i-launched-a-tech-holding-company-at-12-years-old-22f8",
+      "score": 13,
+      "description": "Three weeks ago, I published an article that said: \"I'm 12. I built 4 apps. Now I'm stuck. I'm...",
+      "tags": [
+        "webdev",
+        "startup"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "There's no point at which turning your brain off will work",
+      "url": "https://danluu.com/brain-off/",
+      "score": 13,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
+      "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
+      "score": 13,
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Built an AI Agent That Audits AWS (And It Can't Touch Anything)",
+      "url": "https://dev.to/aws-builders/i-built-an-ai-agent-that-audits-aws-and-it-cant-touch-anything-4nip",
+      "score": 12,
+      "description": "Build a read-only AI agent in Kiro Crew that audits AWS for security and cost, cites real resource IDs, computes real pricing, and cannot change a thing.",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Benchmarking Wild vs Mold",
+      "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+      "score": 12,
+      "tags": [
+        "compilers",
+        "performance"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "GMail, please let me hide delegated accounts on my iPhone",
+      "url": "https://dev.to/peter/gmail-please-let-me-hide-delegated-accounts-on-my-iphone-30e",
+      "score": 11,
+      "description": "Gmail's delegated accounts have started showing up in the app on my iPhone, and I find this...",
+      "tags": [
+        "ios",
+        "design",
+        "productivity",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "score": 11,
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Hacking OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "score": 11,
+      "tags": [
+        "security",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
+      "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+      "score": 10,
+      "tags": [
+        "lisp"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Internet Phone Book",
+      "url": "https://internetphonebook.net/",
+      "score": 10,
+      "tags": [
+        "art",
+        "culture",
+        "web"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "NestJS Testing Module: Provider Overrides (with Cheat Sheet)",
+      "url": "https://dev.to/parsajiravand/nestjs-testing-module-provider-overrides-with-cheat-sheet-1o79",
+      "score": 9,
+      "description": "A complete guide to NestJS's testing module: how overrideProvider really wires mocks, why get() fails on scoped providers, and using useMocker.",
+      "tags": [
+        "nestjs",
+        "node",
+        "typescript",
+        "tutorial"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "The beauty and terror of negative feedback",
+      "url": "https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d",
+      "score": 7,
+      "description": "Giving my first conference talk recently was an absolute thrill. I was excited, not overly nervous,...",
+      "tags": [
+        "mentalhealth",
+        "techtalks",
+        "learning",
+        "speaking"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Release v0.29.0 · warp-tech/warpgate",
+      "url": "https://github.com/warp-tech/warpgate/releases/tag/v0.29.0",
+      "score": 7,
+      "tags": [
+        "release",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Bend",
+      "url": "https://bend-lang.com/",
+      "score": 7,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "score": 7,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill",
+      "url": "https://seclists.org/oss-sec/2026/q3/822",
+      "score": 7,
+      "tags": [
+        "linux",
+        "security"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "\"From Geometry to Algebra and Back Again: 4000 Years of Papers\" (2023) [video]",
+      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
+      "score": 6,
+      "hn_id": 49740371
+    },
+    {
+      "source": "Dev.to",
+      "title": "How to make a fool of yourself 101",
+      "url": "https://dev.to/unitbuilds/how-to-make-a-fool-of-yourself-101-39op",
+      "score": 6,
+      "description": "So as some of you know, I had a technical interview with Wasmer today. I was up till midnight last...",
+      "tags": [
+        "ai",
+        "career",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Turned My Editor Into a Pokémon World That Levels Up When I Actually Ship",
+      "url": "https://dev.to/uribejr/i-turned-my-editor-into-a-pokemon-world-that-levels-up-when-i-actually-ship-4pg6",
+      "score": 6,
+      "description": "Repo: https://github.com/UribeJr/pokedev  Most editor pets are wallpaper.  Cute? Sure. Connected to...",
+      "tags": [
+        "showdev",
+        "vscode",
+        "typescript",
+        "productivity"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Architecting Battery-Efficient Geofencing for Automated Sound Profiles",
+      "url": "https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-automated-sound-profiles-4f33",
+      "score": 5,
+      "description": "It was the middle of a Friday afternoon prayer session at the local masjid. The room was heavy with...",
+      "tags": [
+        "android",
+        "kotlin",
+        "androiddev",
+        "mobiledev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "WebAssembly Beyond the Browser: Building a Sandboxed Plugin System in Node.js & Go",
+      "url": "https://dev.to/mindinu/webassembly-beyond-the-browser-building-a-sandboxed-plugin-system-in-nodejs-go-eo0",
+      "score": 5,
+      "description": "For years, WebAssembly (WASM) was pitched primarily as a way to bring high-performance C++ or Rust...",
+      "tags": [
+        "architecture",
+        "backend",
+        "security",
+        "webassembly"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Building a Production-Grade End-to-End MLOps Pipeline from Scratch",
+      "url": "https://dev.to/naman_2004/building-a-production-grade-end-to-end-mlops-pipeline-from-scratch-l9h",
+      "score": 5,
+      "description": "A step-by-step walkthrough of building a complete MLOps pipeline with DVC, MLflow, FastAPI, Docker, GitHub Actions, Prometheus, and Evidently AI — covering the entire ML lifecycle from data versioning to drift detection.",
+      "tags": [
+        "mlops",
+        "machinelearning",
+        "python",
+        "devops"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "awesome-tunneling: List of tunneling software and services",
+      "url": "https://github.com/anderspitman/awesome-tunneling",
+      "score": 5,
+      "tags": [
+        "devops",
+        "networking"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I almost replaced Lovable with a $5 VPS, Dokploy and one MCP gateway",
+      "url": "https://dev.to/k2sodev/i-almost-replaced-lovable-with-a-5-vps-dokploy-and-one-mcp-gateway-3mn9",
+      "score": 4,
+      "description": "Lovable is nice. You describe a site, an agent writes it, you click publish. It also costs $25–50 a...",
+      "tags": [
+        "ai",
+        "devops",
+        "opensource",
+        "mcp"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Build an Agent UI That Explains Its State with Angular Signals",
+      "url": "https://dev.to/raju_dandigam/build-an-agent-ui-that-explains-its-state-with-angular-signals-28op",
+      "score": 3,
+      "description": "Most chat interfaces have three states: empty, loading, and finished. Agent workflows have many...",
+      "tags": [
+        "angular",
+        "ai",
+        "typescript",
+        "webdev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Testing webhook retries deterministically: a fault sequence per Idempotency-Key",
+      "url": "https://dev.to/emma_teelylabs/testing-webhook-retries-deterministically-a-fault-sequence-per-idempotency-key-1k19",
+      "score": 3,
+      "description": "Random error rates tell you whether a sender retries. A scripted sequence per idempotency key reproduces one exact failure, every run, in CI.",
+      "tags": [
+        "webdev",
+        "testing",
+        "devops",
+        "showdev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Jev vs Claude: Who Wins?",
+      "url": "https://dev.to/bengreenberg/jev-vs-claude-who-wins-4mln",
+      "score": 2,
+      "description": "I did not need Jev to beat Claude or Kimi on a benchmark. I needed to know whether I could trust it...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "typescript",
+        "todayilearned"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Three ways I miscounted my own AI agents, and what the transcripts actually say",
+      "url": "https://dev.to/kostakurta/three-ways-i-miscounted-my-own-ai-agents-and-what-the-transcripts-actually-say-4kjg",
+      "score": 2,
+      "description": "Claude Code writes a JSONL transcript for every session, and another one for every subagent it...",
+      "tags": [
+        "typescript",
+        "ai",
+        "claude",
+        "opensource"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The Bikeshed email — PHKs Bikeshed",
+      "url": "https://phk.freebsd.dk/sagas/bikeshed/",
+      "score": 2,
+      "tags": [
+        "freebsd",
+        "historical"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "3,022 Malicious Gems, and OpenAI Calls It “Benign”",
+      "url": "https://dev.to/cseeman/3022-malicious-gems-and-openai-calls-it-benign-4cf6",
+      "score": 1,
+      "description": "OpenAI says its agents did benign tasks on RubyGems. JFrog counted 3,022 malicious packages, one file was named hack.rb, and the agents kept coming back after they were blocked.",
+      "tags": [
+        "ai",
+        "ruby",
+        "rubygems",
+        "security"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Agentic AI Security: Credentials and Permissions Define the Blast Radius",
+      "url": "https://dev.to/gitguardian/agentic-ai-security-credentials-and-permissions-define-the-blast-radius-4o3i",
+      "score": 1,
+      "description": "Agentic AI Security: Credentials and Permissions Define the Blast Radius   Prompt injection...",
+      "tags": [
+        "security",
+        "ai",
+        "appsec",
+        "devsecops"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Laurels from the Edge: 4 Overlooked #weekendchallenge Projects That Deserved Way More Love",
+      "url": "https://dev.to/mike_cramblett_7050830f0c/laurels-from-the-edge-4-overlooked-weekendchallenge-projects-that-deserved-way-more-love-2gge",
+      "score": 1,
+      "description": "Sup Dev.to!  This is Mike Cramblett, a fellow human developer, coding weirdo, and creator of...",
+      "tags": [
+        "weekendchallenge",
+        "devchallenge",
+        "opensource",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Why count++ Breaks Under Concurrency: Atomicity, Visibility & Ordering — Concurrency Programming (1)",
+      "url": "https://dev.to/thinkerqaq/concurrency-programming-1-start-with-the-hardware-from-count-to-atomicity-visibility-and-1a0o",
+      "score": 1,
+      "description": "Table of Contents    1. Start with the von Neumann Architecture 2. What Does count++...",
+      "tags": [
+        "programming",
+        "computerscience",
+        "performance",
+        "java"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "git blame Told Me I Wrote 767 Lines I Didn't Write",
+      "url": "https://dev.to/lexosi/git-blame-told-me-i-wrote-767-lines-i-didnt-write-1pp6",
+      "score": 1,
+      "description": "git blame Told Me I Wrote 767 Lines I Didn't Write   Before writing about a gate, I checked...",
+      "tags": [
+        "ai",
+        "git",
+        "llm",
+        "agents"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "What Happens When Chip Volume Doubles but the Grid Does Not",
+      "url": "https://dev.to/deanlee/what-happens-when-chip-volume-doubles-but-the-grid-does-not-485c",
+      "score": 1,
+      "description": "Nvidia projected a doubling of semiconductor shipment volume next year alongside a 70 percent revenue increase. In an industry facing four-year transformer backlogs and extended utility interconnection queues, shipping twice as much silicon forces a choice between stranded inventory and accelerated asset write-downs.",
+      "tags": [
+        "ai",
+        "economics",
+        "hardware",
+        "infrastructure"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "sudo and OpenDoas timestamp files (2020)",
+      "url": "https://π.duncano.de/sudo-doas-timestamp-files",
+      "score": 1,
+      "tags": [
+        "security",
+        "unix"
+      ]
+    },
+    {
+      "source": "Reddit",
+      "title": "The scourge of x86 emulation",
+      "url": "https://www.reddit.com/r/programming/comments/1wjicct/the_scourge_of_x86_emulation/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "iceoryx2 0.10 released: full flatbuffer integration, zero copy ipc with unbounded data, robust events",
+      "url": "https://www.reddit.com/r/programming/comments/1wjxzv9/iceoryx2_010_released_full_flatbuffer_integration/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Be alert: targeted attacks on prominent Rustaceans | Rust Blog",
+      "url": "https://www.reddit.com/r/programming/comments/1wj1x9m/be_alert_targeted_attacks_on_prominent_rustaceans/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Make Code Review Your Default Next Task",
+      "url": "https://www.reddit.com/r/programming/comments/1wjont5/make_code_review_your_default_next_task/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Conway's Law and Programming Languages",
+      "url": "https://www.reddit.com/r/programming/comments/1wjl4rq/conways_law_and_programming_languages/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Understanding Raft By Implementing It From Scratch - Part 2",
+      "url": "https://www.reddit.com/r/programming/comments/1wjlfk0/understanding_raft_by_implementing_it_from/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Making a game for the GBA and PC from the same codebase",
+      "url": "https://www.reddit.com/r/programming/comments/1wjcb2c/making_a_game_for_the_gba_and_pc_from_the_same/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Memory Management, Explained Simply (Part 1)",
+      "url": "https://www.reddit.com/r/programming/comments/1wjc0p9/memory_management_explained_simply_part_1/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://www.reddit.com/r/programming/comments/1wjurwy/leave_the_class_path_in_the_rearview_mirror/",
+      "score": 0,
+      "comments": 0
+    }
+  ]
+}
