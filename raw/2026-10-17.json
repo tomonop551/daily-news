@@ -1,0 +1,1946 @@
+{
+  "hn": [
+    {
+      "source": "Hacker News",
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 846,
+      "hn_id": 50112657
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 365,
+      "hn_id": 50122800
+    },
+    {
+      "source": "Hacker News",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "score": 291,
+      "hn_id": 50121179
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 225,
+      "hn_id": 50118320
+    },
+    {
+      "source": "Hacker News",
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "score": 179,
+      "hn_id": 50118981
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "score": 161,
+      "hn_id": 50118688
+    },
+    {
+      "source": "Hacker News",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 144,
+      "hn_id": 50120224
+    },
+    {
+      "source": "Hacker News",
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 144,
+      "hn_id": 50118977
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "score": 127,
+      "hn_id": 50122112
+    },
+    {
+      "source": "Hacker News",
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "score": 104,
+      "hn_id": 50118828
+    },
+    {
+      "source": "Hacker News",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "score": 100,
+      "hn_id": 50122034
+    },
+    {
+      "source": "Hacker News",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "score": 98,
+      "hn_id": 50122951
+    },
+    {
+      "source": "Hacker News",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 93,
+      "hn_id": 50122431
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "score": 87,
+      "hn_id": 50074322
+    },
+    {
+      "source": "Hacker News",
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh",
+      "score": 72,
+      "hn_id": 50121004
+    },
+    {
+      "source": "Hacker News",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 58,
+      "hn_id": 50121939
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+      "url": "https://wonderhop.io/en/",
+      "score": 37,
+      "hn_id": 50080246
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Fatal Flaw of 911",
+      "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+      "score": 27,
+      "hn_id": 50123356
+    },
+    {
+      "source": "Hacker News",
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "score": 27,
+      "hn_id": 50122736
+    },
+    {
+      "source": "Hacker News",
+      "title": "GifCities",
+      "url": "https://gifcities.org/",
+      "score": 27,
+      "hn_id": 50121601
+    },
+    {
+      "source": "Hacker News",
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 25,
+      "hn_id": 50123580
+    },
+    {
+      "source": "Hacker News",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 24,
+      "hn_id": 50122878
+    },
+    {
+      "source": "Hacker News",
+      "title": "Monte-Carlo Simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "score": 22,
+      "hn_id": 50076089
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "score": 8,
+      "hn_id": 50083673
+    }
+  ],
+  "reddit": [
+    {
+      "source": "Reddit",
+      "title": "BIPM announces the end of leap seconds",
+      "url": "https://www.reddit.com/r/programming/comments/1x6uhya/bipm_announces_the_end_of_leap_seconds/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "The bgfx shader compiler, 14 years of not being a compiler",
+      "url": "https://www.reddit.com/r/programming/comments/1x7hpfe/the_bgfx_shader_compiler_14_years_of_not_being_a/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Learned Index Lab: Replacing B-Trees with streaming linear models in pure Rust (-99% RAM, 3x faster)",
+      "url": "https://www.reddit.com/r/programming/comments/1x71ti7/learned_index_lab_replacing_btrees_with_streaming/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Freedoom on AWS Lambda Web Functions",
+      "url": "https://www.reddit.com/r/programming/comments/1x7hz86/freedoom_on_aws_lambda_web_functions/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Sudocrypt v16.0 is back! Our international CTF is happening this October",
+      "url": "https://www.reddit.com/r/programming/comments/1x7h9cz/sudocrypt_v160_is_back_our_international_ctf_is/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "How Stripe uses graph search and state machines to auto-remediate a global database fleet",
+      "url": "https://www.reddit.com/r/programming/comments/1x6fqck/how_stripe_uses_graph_search_and_state_machines/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Principles of Debugging",
+      "url": "https://www.reddit.com/r/programming/comments/1x7dlgl/principles_of_debugging/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "[PDF] Getting a subroutine right: a case study",
+      "url": "https://www.reddit.com/r/programming/comments/1x7002l/pdf_getting_a_subroutine_right_a_case_study/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Faster, Better, Stronger is not a Strategy",
+      "url": "https://www.reddit.com/r/programming/comments/1x6y26l/faster_better_stronger_is_not_a_strategy/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "From Pixel Art to Packet Sniffing: A Programmer’s Guide to Flipper Zero Programming and App…",
+      "url": "https://www.reddit.com/r/programming/comments/1x6qy8l/from_pixel_art_to_packet_sniffing_a_programmers/",
+      "score": 0,
+      "comments": 0
+    }
+  ],
+  "devto": [
+    {
+      "source": "Dev.to",
+      "title": "What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?",
+      "url": "https://dev.to/xulingfeng/what-are-your-chances-of-surviving-resident-evil-based-on-your-tech-job-4b9o",
+      "score": 76,
+      "description": "I recently watched the new Resident Evil movie. 🎬  Watching the main character stumble from one...",
+      "tags": [
+        "discuss",
+        "career",
+        "jokes",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "What I Look for Before Trusting an AI App Builder With a Real Project",
+      "url": "https://dev.to/thebitforge/what-i-look-for-before-trusting-an-ai-app-builder-with-a-real-project-4h27",
+      "score": 39,
+      "description": "AI app builders can now generate a working database, authentication flow, and deployed URL from a...",
+      "tags": [
+        "ai",
+        "webdev",
+        "productivity",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+      "score": 32,
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "LedgerShield: Reconcile Confidently. Keep Financial Data Local.",
+      "url": "https://dev.to/shreyansh_agrahari_2009db/ledgershield-reconcile-confidently-keep-financial-data-local-57kd",
+      "score": 30,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle             ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "render"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "The 90-day window every medical shop misses: I built ShelfMitra to catch it, in Tamil, Hindi and English",
+      "url": "https://dev.to/apples_one_cd174284bffb/the-90-day-window-every-medical-shop-misses-i-built-shelfmitra-to-catch-it-in-tamil-hindi-and-26dd",
+      "score": 25,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Bug Lives at the Seam, Not in the Logic",
+      "url": "https://dev.to/debashish_ghosal/the-bug-lives-at-the-seam-not-in-the-logic-48j4",
+      "score": 22,
+      "description": "The encrypted secret was bytes. It round-tripped perfectly in the in-memory store. The unit tests...",
+      "tags": [
+        "ai",
+        "testing",
+        "llm",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "What I Actually Learn When I Build With AI",
+      "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074",
+      "score": 20,
+      "description": "I've spent entire nights building something with AI, gotten a bunch of features working, and then...",
+      "tags": [
+        "ai",
+        "programming",
+        "learning",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "AI Models Can Learn from Data. But What Can They Learn from Other Models?",
+      "url": "https://dev.to/rijultp/ai-models-can-learn-from-data-but-what-can-they-learn-from-other-models-110e",
+      "score": 16,
+      "description": "Hello, I'm Rijul, and I'm building LiveReview — a blast-radius aware AI code review built for your...",
+      "tags": [
+        "ai",
+        "learning",
+        "beginners",
+        "genai"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Built KhataSnap: Turning Handwritten Shopkeeper Ledgers into a Private AI-Powered Digital Khata",
+      "url": "https://dev.to/ayush_gupta_17/i-built-khatasnap-turning-handwritten-shopkeeper-ledgers-into-a-private-ai-powered-digital-khata-3e09",
+      "score": 15,
+      "description": "This article is submitted for the **Hacktoberfest Open-Source AI Challenge: Week 2 (Side...",
+      "tags": [
+        "hf26challenge",
+        "devchallenge",
+        "hacktoberfest",
+        "ai"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Help Your Coding Assistant Find the Right Code in Large Repos",
+      "url": "https://dev.to/raabdahl/help-your-coding-assistant-find-the-right-code-in-large-repos-20e3",
+      "score": 13,
+      "description": "Get the starter: sdahal1/repo-search-workshop on GitHub. The reproduction, searches, tests, and...",
+      "tags": [
+        "ai",
+        "coding",
+        "lsp",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged",
+      "url": "https://dev.to/alexgeorgiev17/postgresql-19-betas-parallel-autovacuum-launches-workers-but-leaves-vacuum-time-unchanged-3g4j",
+      "score": 11,
+      "description": "I measured PostgreSQL 19 beta4's new parallel autovacuum on a six-index, 400,000-row table: 4 workers launched every time, but wall-clock vacuum time stayed within 4% of the serial run, while dead-tuple memory doubled.",
+      "tags": [
+        "postgres",
+        "database",
+        "performance",
+        "devops"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Stop Guessing. Let the Algorithm Find the Sweet Spot.",
+      "url": "https://dev.to/copyleftdev/stop-guessing-let-the-algorithm-find-the-sweet-spot-3akd",
+      "score": 10,
+      "description": "A reproducible Rust experiment in simulated annealing, search budgets, and the engineering discipline of measuring what matters.",
+      "tags": [
+        "programming",
+        "algorithms",
+        "rust",
+        "performance"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Slop Coding: The Vibe Archeologist Strikes Again!",
+      "url": "https://dev.to/pengeszikra/slop-coding-the-vibe-archeologist-strikes-again-35df",
+      "score": 10,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle            ...",
+      "tags": [
+        "ai",
+        "coding",
+        "devchallenge",
+        "sideprojects"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Wanted a Side Hustle. I Built a Herald With a Tip Jar.",
+      "url": "https://dev.to/earlgreyhot1701d/i-wanted-a-side-hustle-i-built-a-herald-with-a-tip-jar-cg",
+      "score": 9,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  The math...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "githubcopilot"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Doorman: my apps' contact form got 23 messages in six weeks, and all 23 were pitches",
+      "url": "https://dev.to/mikek/doorman-my-apps-contact-form-got-23-messages-in-six-weeks-and-all-23-were-pitches-h7c",
+      "score": 9,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "opensource"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
+      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
+      "score": 7,
+      "description": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card sits at its 70 W limit, a hotter chip draws more power at the same clock, so the clock drops. No thermal throttle fires, and no spec sheet mentions it.",
+      "tags": [
+        "nvidia",
+        "googlecloud",
+        "llm",
+        "performance"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Built Graffitizer — A Free Browser-Based Graffiti Lettering Studio with SVG & Transparent PNG Export (No AI, No Signup)",
+      "url": "https://dev.to/xu_y_0d18234cde32e6fad750/i-built-graffitizer-a-free-browser-based-graffiti-lettering-studio-with-svg-transparent-png-4263",
+      "score": 7,
+      "description": "If you have ever tried to create custom street-art lettering or a stylized wordmark for a poster,...",
+      "tags": [
+        "webdev",
+        "showdev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Ten findings, ten answers — publishing the audit of our own black box",
+      "url": "https://dev.to/slabb/ten-findings-ten-answers-publishing-the-audit-of-our-own-black-box-1d29",
+      "score": 7,
+      "description": "An external line-by-line audit of our flight recorder found 10 vulnerabilities. We published all ten with their file, line and severity — and answered every one in release 0.21.0, each fix carrying its own named test. 392 tests collected.",
+      "tags": [
+        "security",
+        "python",
+        "programming",
+        "infosec"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Briefstamp: a receipt for the website handoff",
+      "url": "https://dev.to/himanshu_748/briefstamp-proof-at-the-website-handoff-1ac1",
+      "score": 7,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "What was your win this week?!",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am",
+      "score": 6,
+      "description": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "tags": [
+        "weeklyretro"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
+      "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g",
+      "score": 6,
+      "description": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and E2B 1.40x on an 8 GB RTX 3050, and 1.49x and 1.18x on a 4 GB laptop GTX 1650 Ti, served by llama.cpp one request at a time, with unchanged GSM8K and BFCL scores.",
+      "tags": [
+        "gemma",
+        "llamacpp",
+        "cuda",
+        "benchmarking"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Building Fuenzer Sports: An AI Tournament Prediction Side Hustle Powered by Open-Weight Models",
+      "url": "https://dev.to/ryogs/fuenzer-sports-ai-driven-tournament-simulator-1iog",
+      "score": 6,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "opensource",
+        "ai"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Build an invoice reminder workflow in n8n with Google Sheets (idempotent, AU GST wording)",
+      "url": "https://dev.to/ledgerlinetools/build-an-invoice-reminder-workflow-in-n8n-with-google-sheets-idempotent-au-gst-wording-2o7d",
+      "score": 5,
+      "description": "Build an invoice reminder workflow in n8n with Google Sheets (idempotent, AU GST wording)",
+      "tags": [
+        "n8n",
+        "automation",
+        "tutorial",
+        "javascript"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "🌑 Blue October",
+      "url": "https://dev.to/annavi11arrea1/blue-october-1jia",
+      "score": 4,
+      "description": "TLDR: A brief summary of how I got here.             The Mindset   For the last 3 years, I have been...",
+      "tags": [
+        "webdev",
+        "programming",
+        "mentalhealth"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Internet of Things is Held Together With Duct Tape and Default Passwords[Badly]",
+      "url": "https://dev.to/numbpill3d/the-internet-of-things-is-held-together-with-duct-tape-and-default-passwordsbadly-4o6k",
+      "score": 3,
+      "description": "My smart light bulb tried to mine crypto last Tuesday.  Not a joke. Not a metaphor.  I have a cheap...",
+      "tags": [
+        "iot",
+        "programming",
+        "security",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Renting Out One T4 to Three Customers: Gemma 4, vLLM Multi-LoRA and a Rust Gateway",
+      "url": "https://dev.to/xbill/renting-out-one-t4-to-three-customers-gemma-4-vllm-multi-lora-and-a-rust-gateway-3322",
+      "score": 1,
+      "description": "One Tesla T4 serving Gemma 4 E2B to three paying tenants. A 245-line Rust gateway gives each one a key, its own adapter, a priority and a private cache, and bills them by GPU time from a ledger that matches vLLM's counters to the token.",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "rust"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Tracked a Scammer For 72 Hours. It Got Personal.",
+      "url": "https://dev.to/numbpill3d/i-tracked-a-scammer-for-72-hours-it-got-personal-3dk9",
+      "score": 1,
+      "description": "It started with a text message at 11:47 PM.   Your USPS package could not be delivered. Please...",
+      "tags": [
+        "programming",
+        "tutorial",
+        "security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Claude Code mods: Brickfall, a brick breaker that's loud without getting in the way",
+      "url": "https://dev.to/reporails/claude-code-mods-brickfall-a-brick-breaker-thats-loud-without-getting-in-the-way-2kfa",
+      "score": 1,
+      "description": "After the Minesweeper and Doom, the third game in the arcade is a brick breaker after Arkanoid. The...",
+      "tags": [
+        "ai",
+        "typescript",
+        "claude",
+        "gamedev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Meta AI training: what the new business terms ask of your website",
+      "url": "https://dev.to/axrisi/meta-ai-training-what-the-new-business-terms-ask-of-your-website-5ag7",
+      "score": 1,
+      "description": "Meta AI training appears explicitly in upcoming commercial terms. Here is who is covered, what the website permission says, and where robots.txt fits.",
+      "tags": [
+        "meta",
+        "facebook",
+        "ai",
+        "webcrawlers"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Android on iOS, Web & Desktop Efficiently and for Free",
+      "url": "https://dev.to/codenameone/android-on-ios-web-desktop-efficiently-and-for-free-3fp6",
+      "score": 1,
+      "description": "Compile Android apps for iOS, web and desktop with a free, open-source compatibility layer. Try the browser demo, see the iOS binary size and migrate one screen at a time.",
+      "tags": [
+        "java",
+        "mobile",
+        "android",
+        "ios"
+      ]
+    }
+  ],
+  "lobsters": [
+    {
+      "source": "Lobsters",
+      "title": "JPEG XL vs AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 95,
+      "tags": [
+        "compsci",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Linus Torvalds on AI-assisted kernel contributions",
+      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+      "score": 77,
+      "tags": [
+        "linux",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Sunsetting decomp.dev",
+      "url": "https://decomp.dev/",
+      "score": 74,
+      "tags": [
+        "games",
+        "reversing",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Why are we even doing all this?",
+      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+      "score": 72,
+      "tags": [
+        "math",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "My C23 Conventions",
+      "url": "https://abner.page/post/c23-conventions-1/",
+      "score": 58,
+      "tags": [
+        "c"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Forgejo v17.0 is available",
+      "url": "https://forgejo.org/2026-10-release-v17-0/",
+      "score": 55,
+      "tags": [
+        "release",
+        "vcs"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "On the technical actions needed to ensure the continuity of UTC",
+      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "score": 42,
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The road to iroh 1.0",
+      "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
+      "score": 37,
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Epic's EAC2 v2 seems fairly easily bypassable",
+      "url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
+      "score": 35,
+      "tags": [
+        "linux",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Making a 88x31 button book using ImageMagick",
+      "url": "https://k.sosnierz.me/08-11-24/",
+      "score": 30,
+      "tags": [
+        "art"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Announcing Rust 1.99.1",
+      "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+      "score": 29,
+      "tags": [
+        "release",
+        "rust"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "My self-hosted infrastructure with Incus OS",
+      "url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
+      "score": 27,
+      "tags": [
+        "devops",
+        "linux"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Where did WIN32_LEAN_AND_MEAN come from? (2009)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/",
+      "score": 25,
+      "tags": [
+        "historical",
+        "windows"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Folders Esoteric Language",
+      "url": "https://danieltemkin.com/esolangs/folders",
+      "score": 12,
+      "tags": [
+        "plt"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "url": "https://words.filippo.io/seeds-solved/",
+      "score": 11,
+      "tags": [
+        "cryptography"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Mull: note-taking with a language server / vscode extension",
+      "url": "https://github.com/stepchowfun/mull",
+      "score": 11,
+      "tags": [
+        "editors"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 11,
+      "tags": [
+        "openbsd",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What are you doing this weekend?",
+      "url": "",
+      "score": 11,
+      "tags": [
+        "ask",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+      "url": "https://maevyn.codes/decoherence",
+      "score": 10,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What agents mean for Rust (and vice versa)",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "score": 9,
+      "tags": [
+        "rust",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "We're sunsetting Codeberg Pages v2",
+      "url": "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
+      "score": 5,
+      "tags": [
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Getting Canceled",
+      "url": "https://www.youtube.com/watch?v=5zIOfBLQ3U4",
+      "score": 4,
+      "tags": [
+        "video",
+        "zig"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Introducing GNOME OS Preview",
+      "url": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
+      "score": 4,
+      "tags": [
+        "linux",
+        "release"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Ubuntu 26.10 (Stonking Stingray) released",
+      "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
+      "score": 3,
+      "tags": [
+        "linux",
+        "release"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "There's never been a better time to go into math",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "score": 2,
+      "tags": [
+        "math",
+        "video"
+      ]
+    }
+  ],
+  "github": [
+    {
+      "source": "GitHub",
+      "title": "codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "score": 553777,
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown"
+    },
+    {
+      "source": "GitHub",
+      "title": "sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "url": "https://github.com/sindresorhus/awesome",
+      "score": 519954,
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "public-apis/public-apis: A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "score": 489456,
+      "description": "A collective list of free APIs",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "freeCodeCamp/freeCodeCamp: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "score": 457172,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "EbookFoundation/free-programming-books: :books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "score": 399200,
+      "description": ":books: Freely available programming books",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 392191,
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "score": 374443,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "nilbuild/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "score": 369554,
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "vinta/awesome-python: The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "url": "https://github.com/vinta/awesome-python",
+      "score": 327938,
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "score": 327292,
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "score": 300602,
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 293960,
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "score": 289395,
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "practical-tutorials/project-based-learning: Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "score": 286910,
+      "description": "Curated list of project-based tutorials",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 281345,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript"
+    }
+  ],
+  "all": [
+    {
+      "source": "GitHub",
+      "title": "codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "score": 553777,
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown"
+    },
+    {
+      "source": "GitHub",
+      "title": "sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "url": "https://github.com/sindresorhus/awesome",
+      "score": 519954,
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "public-apis/public-apis: A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "score": 489456,
+      "description": "A collective list of free APIs",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "freeCodeCamp/freeCodeCamp: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "score": 457172,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "EbookFoundation/free-programming-books: :books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "score": 399200,
+      "description": ":books: Freely available programming books",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 392191,
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "score": 374443,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "nilbuild/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "score": 369554,
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "vinta/awesome-python: The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "url": "https://github.com/vinta/awesome-python",
+      "score": 327938,
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "score": 327292,
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "score": 300602,
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 293960,
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "score": 289395,
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "practical-tutorials/project-based-learning: Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "score": 286910,
+      "description": "Curated list of project-based tutorials",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 281345,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 846,
+      "hn_id": 50112657
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 365,
+      "hn_id": 50122800
+    },
+    {
+      "source": "Hacker News",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "score": 291,
+      "hn_id": 50121179
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 225,
+      "hn_id": 50118320
+    },
+    {
+      "source": "Hacker News",
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "score": 179,
+      "hn_id": 50118981
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "score": 161,
+      "hn_id": 50118688
+    },
+    {
+      "source": "Hacker News",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 144,
+      "hn_id": 50120224
+    },
+    {
+      "source": "Hacker News",
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 144,
+      "hn_id": 50118977
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "score": 127,
+      "hn_id": 50122112
+    },
+    {
+      "source": "Hacker News",
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "score": 104,
+      "hn_id": 50118828
+    },
+    {
+      "source": "Hacker News",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "score": 100,
+      "hn_id": 50122034
+    },
+    {
+      "source": "Hacker News",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "score": 98,
+      "hn_id": 50122951
+    },
+    {
+      "source": "Lobsters",
+      "title": "JPEG XL vs AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 95,
+      "tags": [
+        "compsci",
+        "web"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 93,
+      "hn_id": 50122431
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "score": 87,
+      "hn_id": 50074322
+    },
+    {
+      "source": "Lobsters",
+      "title": "Linus Torvalds on AI-assisted kernel contributions",
+      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+      "score": 77,
+      "tags": [
+        "linux",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?",
+      "url": "https://dev.to/xulingfeng/what-are-your-chances-of-surviving-resident-evil-based-on-your-tech-job-4b9o",
+      "score": 76,
+      "description": "I recently watched the new Resident Evil movie. 🎬  Watching the main character stumble from one...",
+      "tags": [
+        "discuss",
+        "career",
+        "jokes",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Sunsetting decomp.dev",
+      "url": "https://decomp.dev/",
+      "score": 74,
+      "tags": [
+        "games",
+        "reversing",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh",
+      "score": 72,
+      "hn_id": 50121004
+    },
+    {
+      "source": "Lobsters",
+      "title": "Why are we even doing all this?",
+      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+      "score": 72,
+      "tags": [
+        "math",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 58,
+      "hn_id": 50121939
+    },
+    {
+      "source": "Lobsters",
+      "title": "My C23 Conventions",
+      "url": "https://abner.page/post/c23-conventions-1/",
+      "score": 58,
+      "tags": [
+        "c"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Forgejo v17.0 is available",
+      "url": "https://forgejo.org/2026-10-release-v17-0/",
+      "score": 55,
+      "tags": [
+        "release",
+        "vcs"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "On the technical actions needed to ensure the continuity of UTC",
+      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "score": 42,
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "What I Look for Before Trusting an AI App Builder With a Real Project",
+      "url": "https://dev.to/thebitforge/what-i-look-for-before-trusting-an-ai-app-builder-with-a-real-project-4h27",
+      "score": 39,
+      "description": "AI app builders can now generate a working database, authentication flow, and deployed URL from a...",
+      "tags": [
+        "ai",
+        "webdev",
+        "productivity",
+        "programming"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+      "url": "https://wonderhop.io/en/",
+      "score": 37,
+      "hn_id": 50080246
+    },
+    {
+      "source": "Lobsters",
+      "title": "The road to iroh 1.0",
+      "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
+      "score": 37,
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Epic's EAC2 v2 seems fairly easily bypassable",
+      "url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
+      "score": 35,
+      "tags": [
+        "linux",
+        "security"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+      "score": 32,
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "LedgerShield: Reconcile Confidently. Keep Financial Data Local.",
+      "url": "https://dev.to/shreyansh_agrahari_2009db/ledgershield-reconcile-confidently-keep-financial-data-local-57kd",
+      "score": 30,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle             ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "render"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Making a 88x31 button book using ImageMagick",
+      "url": "https://k.sosnierz.me/08-11-24/",
+      "score": 30,
+      "tags": [
+        "art"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Announcing Rust 1.99.1",
+      "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+      "score": 29,
+      "tags": [
+        "release",
+        "rust"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Fatal Flaw of 911",
+      "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+      "score": 27,
+      "hn_id": 50123356
+    },
+    {
+      "source": "Hacker News",
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "score": 27,
+      "hn_id": 50122736
+    },
+    {
+      "source": "Hacker News",
+      "title": "GifCities",
+      "url": "https://gifcities.org/",
+      "score": 27,
+      "hn_id": 50121601
+    },
+    {
+      "source": "Lobsters",
+      "title": "My self-hosted infrastructure with Incus OS",
+      "url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
+      "score": 27,
+      "tags": [
+        "devops",
+        "linux"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 25,
+      "hn_id": 50123580
+    },
+    {
+      "source": "Dev.to",
+      "title": "The 90-day window every medical shop misses: I built ShelfMitra to catch it, in Tamil, Hindi and English",
+      "url": "https://dev.to/apples_one_cd174284bffb/the-90-day-window-every-medical-shop-misses-i-built-shelfmitra-to-catch-it-in-tamil-hindi-and-26dd",
+      "score": 25,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Where did WIN32_LEAN_AND_MEAN come from? (2009)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/",
+      "score": 25,
+      "tags": [
+        "historical",
+        "windows"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 24,
+      "hn_id": 50122878
+    },
+    {
+      "source": "Hacker News",
+      "title": "Monte-Carlo Simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "score": 22,
+      "hn_id": 50076089
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Bug Lives at the Seam, Not in the Logic",
+      "url": "https://dev.to/debashish_ghosal/the-bug-lives-at-the-seam-not-in-the-logic-48j4",
+      "score": 22,
+      "description": "The encrypted secret was bytes. It round-tripped perfectly in the in-memory store. The unit tests...",
+      "tags": [
+        "ai",
+        "testing",
+        "llm",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "What I Actually Learn When I Build With AI",
+      "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074",
+      "score": 20,
+      "description": "I've spent entire nights building something with AI, gotten a bunch of features working, and then...",
+      "tags": [
+        "ai",
+        "programming",
+        "learning",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "AI Models Can Learn from Data. But What Can They Learn from Other Models?",
+      "url": "https://dev.to/rijultp/ai-models-can-learn-from-data-but-what-can-they-learn-from-other-models-110e",
+      "score": 16,
+      "description": "Hello, I'm Rijul, and I'm building LiveReview — a blast-radius aware AI code review built for your...",
+      "tags": [
+        "ai",
+        "learning",
+        "beginners",
+        "genai"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Built KhataSnap: Turning Handwritten Shopkeeper Ledgers into a Private AI-Powered Digital Khata",
+      "url": "https://dev.to/ayush_gupta_17/i-built-khatasnap-turning-handwritten-shopkeeper-ledgers-into-a-private-ai-powered-digital-khata-3e09",
+      "score": 15,
+      "description": "This article is submitted for the **Hacktoberfest Open-Source AI Challenge: Week 2 (Side...",
+      "tags": [
+        "hf26challenge",
+        "devchallenge",
+        "hacktoberfest",
+        "ai"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Help Your Coding Assistant Find the Right Code in Large Repos",
+      "url": "https://dev.to/raabdahl/help-your-coding-assistant-find-the-right-code-in-large-repos-20e3",
+      "score": 13,
+      "description": "Get the starter: sdahal1/repo-search-workshop on GitHub. The reproduction, searches, tests, and...",
+      "tags": [
+        "ai",
+        "coding",
+        "lsp",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Folders Esoteric Language",
+      "url": "https://danieltemkin.com/esolangs/folders",
+      "score": 12,
+      "tags": [
+        "plt"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged",
+      "url": "https://dev.to/alexgeorgiev17/postgresql-19-betas-parallel-autovacuum-launches-workers-but-leaves-vacuum-time-unchanged-3g4j",
+      "score": 11,
+      "description": "I measured PostgreSQL 19 beta4's new parallel autovacuum on a six-index, 400,000-row table: 4 workers launched every time, but wall-clock vacuum time stayed within 4% of the serial run, while dead-tuple memory doubled.",
+      "tags": [
+        "postgres",
+        "database",
+        "performance",
+        "devops"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "url": "https://words.filippo.io/seeds-solved/",
+      "score": 11,
+      "tags": [
+        "cryptography"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Mull: note-taking with a language server / vscode extension",
+      "url": "https://github.com/stepchowfun/mull",
+      "score": 11,
+      "tags": [
+        "editors"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 11,
+      "tags": [
+        "openbsd",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What are you doing this weekend?",
+      "url": "",
+      "score": 11,
+      "tags": [
+        "ask",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Stop Guessing. Let the Algorithm Find the Sweet Spot.",
+      "url": "https://dev.to/copyleftdev/stop-guessing-let-the-algorithm-find-the-sweet-spot-3akd",
+      "score": 10,
+      "description": "A reproducible Rust experiment in simulated annealing, search budgets, and the engineering discipline of measuring what matters.",
+      "tags": [
+        "programming",
+        "algorithms",
+        "rust",
+        "performance"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Slop Coding: The Vibe Archeologist Strikes Again!",
+      "url": "https://dev.to/pengeszikra/slop-coding-the-vibe-archeologist-strikes-again-35df",
+      "score": 10,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle            ...",
+      "tags": [
+        "ai",
+        "coding",
+        "devchallenge",
+        "sideprojects"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+      "url": "https://maevyn.codes/decoherence",
+      "score": 10,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Wanted a Side Hustle. I Built a Herald With a Tip Jar.",
+      "url": "https://dev.to/earlgreyhot1701d/i-wanted-a-side-hustle-i-built-a-herald-with-a-tip-jar-cg",
+      "score": 9,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  The math...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "githubcopilot"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Doorman: my apps' contact form got 23 messages in six weeks, and all 23 were pitches",
+      "url": "https://dev.to/mikek/doorman-my-apps-contact-form-got-23-messages-in-six-weeks-and-all-23-were-pitches-h7c",
+      "score": 9,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "opensource"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What agents mean for Rust (and vice versa)",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "score": 9,
+      "tags": [
+        "rust",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "score": 8,
+      "hn_id": 50083673
+    },
+    {
+      "source": "Dev.to",
+      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
+      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
+      "score": 7,
+      "description": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card sits at its 70 W limit, a hotter chip draws more power at the same clock, so the clock drops. No thermal throttle fires, and no spec sheet mentions it.",
+      "tags": [
+        "nvidia",
+        "googlecloud",
+        "llm",
+        "performance"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Built Graffitizer — A Free Browser-Based Graffiti Lettering Studio with SVG & Transparent PNG Export (No AI, No Signup)",
+      "url": "https://dev.to/xu_y_0d18234cde32e6fad750/i-built-graffitizer-a-free-browser-based-graffiti-lettering-studio-with-svg-transparent-png-4263",
+      "score": 7,
+      "description": "If you have ever tried to create custom street-art lettering or a stylized wordmark for a poster,...",
+      "tags": [
+        "webdev",
+        "showdev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Ten findings, ten answers — publishing the audit of our own black box",
+      "url": "https://dev.to/slabb/ten-findings-ten-answers-publishing-the-audit-of-our-own-black-box-1d29",
+      "score": 7,
+      "description": "An external line-by-line audit of our flight recorder found 10 vulnerabilities. We published all ten with their file, line and severity — and answered every one in release 0.21.0, each fix carrying its own named test. 392 tests collected.",
+      "tags": [
+        "security",
+        "python",
+        "programming",
+        "infosec"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Briefstamp: a receipt for the website handoff",
+      "url": "https://dev.to/himanshu_748/briefstamp-proof-at-the-website-handoff-1ac1",
+      "score": 7,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "What was your win this week?!",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am",
+      "score": 6,
+      "description": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "tags": [
+        "weeklyretro"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
+      "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g",
+      "score": 6,
+      "description": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and E2B 1.40x on an 8 GB RTX 3050, and 1.49x and 1.18x on a 4 GB laptop GTX 1650 Ti, served by llama.cpp one request at a time, with unchanged GSM8K and BFCL scores.",
+      "tags": [
+        "gemma",
+        "llamacpp",
+        "cuda",
+        "benchmarking"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Building Fuenzer Sports: An AI Tournament Prediction Side Hustle Powered by Open-Weight Models",
+      "url": "https://dev.to/ryogs/fuenzer-sports-ai-driven-tournament-simulator-1iog",
+      "score": 6,
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "opensource",
+        "ai"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Build an invoice reminder workflow in n8n with Google Sheets (idempotent, AU GST wording)",
+      "url": "https://dev.to/ledgerlinetools/build-an-invoice-reminder-workflow-in-n8n-with-google-sheets-idempotent-au-gst-wording-2o7d",
+      "score": 5,
+      "description": "Build an invoice reminder workflow in n8n with Google Sheets (idempotent, AU GST wording)",
+      "tags": [
+        "n8n",
+        "automation",
+        "tutorial",
+        "javascript"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "We're sunsetting Codeberg Pages v2",
+      "url": "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
+      "score": 5,
+      "tags": [
+        "web"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "🌑 Blue October",
+      "url": "https://dev.to/annavi11arrea1/blue-october-1jia",
+      "score": 4,
+      "description": "TLDR: A brief summary of how I got here.             The Mindset   For the last 3 years, I have been...",
+      "tags": [
+        "webdev",
+        "programming",
+        "mentalhealth"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Getting Canceled",
+      "url": "https://www.youtube.com/watch?v=5zIOfBLQ3U4",
+      "score": 4,
+      "tags": [
+        "video",
+        "zig"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Introducing GNOME OS Preview",
+      "url": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
+      "score": 4,
+      "tags": [
+        "linux",
+        "release"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Internet of Things is Held Together With Duct Tape and Default Passwords[Badly]",
+      "url": "https://dev.to/numbpill3d/the-internet-of-things-is-held-together-with-duct-tape-and-default-passwordsbadly-4o6k",
+      "score": 3,
+      "description": "My smart light bulb tried to mine crypto last Tuesday.  Not a joke. Not a metaphor.  I have a cheap...",
+      "tags": [
+        "iot",
+        "programming",
+        "security",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Ubuntu 26.10 (Stonking Stingray) released",
+      "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
+      "score": 3,
+      "tags": [
+        "linux",
+        "release"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "There's never been a better time to go into math",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "score": 2,
+      "tags": [
+        "math",
+        "video"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Renting Out One T4 to Three Customers: Gemma 4, vLLM Multi-LoRA and a Rust Gateway",
+      "url": "https://dev.to/xbill/renting-out-one-t4-to-three-customers-gemma-4-vllm-multi-lora-and-a-rust-gateway-3322",
+      "score": 1,
+      "description": "One Tesla T4 serving Gemma 4 E2B to three paying tenants. A 245-line Rust gateway gives each one a key, its own adapter, a priority and a private cache, and bills them by GPU time from a ledger that matches vLLM's counters to the token.",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "rust"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Tracked a Scammer For 72 Hours. It Got Personal.",
+      "url": "https://dev.to/numbpill3d/i-tracked-a-scammer-for-72-hours-it-got-personal-3dk9",
+      "score": 1,
+      "description": "It started with a text message at 11:47 PM.   Your USPS package could not be delivered. Please...",
+      "tags": [
+        "programming",
+        "tutorial",
+        "security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Claude Code mods: Brickfall, a brick breaker that's loud without getting in the way",
+      "url": "https://dev.to/reporails/claude-code-mods-brickfall-a-brick-breaker-thats-loud-without-getting-in-the-way-2kfa",
+      "score": 1,
+      "description": "After the Minesweeper and Doom, the third game in the arcade is a brick breaker after Arkanoid. The...",
+      "tags": [
+        "ai",
+        "typescript",
+        "claude",
+        "gamedev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Meta AI training: what the new business terms ask of your website",
+      "url": "https://dev.to/axrisi/meta-ai-training-what-the-new-business-terms-ask-of-your-website-5ag7",
+      "score": 1,
+      "description": "Meta AI training appears explicitly in upcoming commercial terms. Here is who is covered, what the website permission says, and where robots.txt fits.",
+      "tags": [
+        "meta",
+        "facebook",
+        "ai",
+        "webcrawlers"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Android on iOS, Web & Desktop Efficiently and for Free",
+      "url": "https://dev.to/codenameone/android-on-ios-web-desktop-efficiently-and-for-free-3fp6",
+      "score": 1,
+      "description": "Compile Android apps for iOS, web and desktop with a free, open-source compatibility layer. Try the browser demo, see the iOS binary size and migrate one screen at a time.",
+      "tags": [
+        "java",
+        "mobile",
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "source": "Reddit",
+      "title": "BIPM announces the end of leap seconds",
+      "url": "https://www.reddit.com/r/programming/comments/1x6uhya/bipm_announces_the_end_of_leap_seconds/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "The bgfx shader compiler, 14 years of not being a compiler",
+      "url": "https://www.reddit.com/r/programming/comments/1x7hpfe/the_bgfx_shader_compiler_14_years_of_not_being_a/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Learned Index Lab: Replacing B-Trees with streaming linear models in pure Rust (-99% RAM, 3x faster)",
+      "url": "https://www.reddit.com/r/programming/comments/1x71ti7/learned_index_lab_replacing_btrees_with_streaming/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Freedoom on AWS Lambda Web Functions",
+      "url": "https://www.reddit.com/r/programming/comments/1x7hz86/freedoom_on_aws_lambda_web_functions/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Sudocrypt v16.0 is back! Our international CTF is happening this October",
+      "url": "https://www.reddit.com/r/programming/comments/1x7h9cz/sudocrypt_v160_is_back_our_international_ctf_is/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "How Stripe uses graph search and state machines to auto-remediate a global database fleet",
+      "url": "https://www.reddit.com/r/programming/comments/1x6fqck/how_stripe_uses_graph_search_and_state_machines/",
+      "score": 0,
+      "comments": 0
+    }
+  ]
+}

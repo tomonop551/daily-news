@@ -1,0 +1,1589 @@
+{
+  "hn": [
+    {
+      "source": "Hacker News",
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "score": 205,
+      "hn_id": 48808482
+    },
+    {
+      "source": "Hacker News",
+      "title": "Price per 1M tokens is meaningless",
+      "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+      "score": 74,
+      "hn_id": 48809542
+    },
+    {
+      "source": "Hacker News",
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "score": 101,
+      "hn_id": 48808928
+    },
+    {
+      "source": "Hacker News",
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "score": 131,
+      "hn_id": 48808002
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linux on the Atari Jaguar. No, really.",
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "score": 65,
+      "hn_id": 48808663
+    },
+    {
+      "source": "Hacker News",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "score": 227,
+      "hn_id": 48805624
+    },
+    {
+      "source": "Hacker News",
+      "title": "Resetting Xbox",
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "score": 352,
+      "hn_id": 48804993
+    },
+    {
+      "source": "Hacker News",
+      "title": "Using precision editing to study human embryo development shows master gene",
+      "url": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
+      "score": 20,
+      "hn_id": 48769854
+    },
+    {
+      "source": "Hacker News",
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "url": "https://github.com/V4bel/Januscape",
+      "score": 51,
+      "hn_id": 48807908
+    },
+    {
+      "source": "Hacker News",
+      "title": "Aluminum foil (2021)",
+      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "score": 207,
+      "hn_id": 48804297
+    },
+    {
+      "source": "Hacker News",
+      "title": "Python 3.14 compiled to metal – no interpreter",
+      "url": "https://github.com/can1357/pon",
+      "score": 45,
+      "hn_id": 48809496
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kani: A Model Checker for Rust",
+      "url": "https://arxiv.org/abs/2607.01504",
+      "score": 98,
+      "hn_id": 48806410
+    },
+    {
+      "source": "Hacker News",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "score": 69,
+      "hn_id": 48807225
+    },
+    {
+      "source": "Hacker News",
+      "title": "Road to Elm 1.0",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "score": 279,
+      "hn_id": 48803364
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rotman Lens",
+      "url": "https://en.wikipedia.org/wiki/Rotman_lens",
+      "score": 28,
+      "hn_id": 48747889
+    },
+    {
+      "source": "Hacker News",
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "score": 353,
+      "hn_id": 48802535
+    },
+    {
+      "source": "Hacker News",
+      "title": "Egypt Is Building a New Nile",
+      "url": "https://www.theb1m.com/video/egypt-is-building-a-new-nile",
+      "score": 98,
+      "hn_id": 48779274
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Pulpie – Models for Cleaning the Web",
+      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+      "score": 65,
+      "hn_id": 48806575
+    },
+    {
+      "source": "Hacker News",
+      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
+      "url": "https://github.com/karola3vax/CS2FOW",
+      "score": 72,
+      "hn_id": 48805965
+    },
+    {
+      "source": "Hacker News",
+      "title": "Clojure 1.13 adds support for checked keys",
+      "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+      "score": 162,
+      "hn_id": 48767211
+    },
+    {
+      "source": "Hacker News",
+      "title": "1k Words: A Writing Contest",
+      "url": "https://writingclub.world/1picture1000words",
+      "score": 65,
+      "hn_id": 48806073
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+      "url": "https://andonlabs.com/blog/fable5-vending-bench",
+      "score": 156,
+      "hn_id": 48803762
+    },
+    {
+      "source": "Hacker News",
+      "title": "Introduction to Genomics for Engineers",
+      "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+      "score": 207,
+      "hn_id": 48760424
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hobbes – A Language and Embedded JIT Compiler",
+      "url": "https://github.com/morganstanley/hobbes",
+      "score": 15,
+      "hn_id": 48768935
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+      "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+      "score": 282,
+      "hn_id": 48804193
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pros and Cons of Solo Development",
+      "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+      "score": 78,
+      "hn_id": 48808508
+    },
+    {
+      "source": "Hacker News",
+      "title": "Should DayQuil Be Legal?",
+      "url": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
+      "score": 142,
+      "hn_id": 48806289
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apricot Computers: An underrated British brand",
+      "url": "https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/",
+      "score": 69,
+      "hn_id": 48743362
+    },
+    {
+      "source": "Hacker News",
+      "title": "Eternal Software Initiative Based on Subleq One-Instruction-Set Computer",
+      "url": "https://github.com/adriancable/eternal",
+      "score": 16,
+      "hn_id": 48806156
+    }
+  ],
+  "reddit": [],
+  "devto": [
+    {
+      "source": "Dev.to",
+      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
+      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
+      "score": 66,
+      "description": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "My First Year at DEV Recap",
+      "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2",
+      "score": 69,
+      "description": "I heard about DEV a while back from a former colleague who was posting regularly back then. She won a..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Future Of AI Is Local And Open",
+      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
+      "score": 48,
+      "description": "There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
+      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
+      "score": 64,
+      "description": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
+      "url": "https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh",
+      "score": 128,
+      "description": "TL;DR  Anthropic recently published When AI Builds Itself, an essay explaining how AI is..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "score": 66,
+      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-18mk",
+      "score": 49,
+      "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants, and a $60K APAC Hackathon",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp",
+      "score": 65,
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Play today’s game from Issue #2 of The Daily Context!",
+      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
+      "score": 35,
+      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Log Is the Agent",
+      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
+      "score": 47,
+      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Tried to Escape LeetCode for 2 Years (But Here We Are)",
+      "url": "https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99",
+      "score": 47,
+      "description": "Seriously, LeetCode in 2026? Everyone is saying HackerRank just killed LeetCode, and yet here I am,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "My Next.js 16 Auth Passed Every Test. Five Bugs That Only Showed Up When I Wired It Together.",
+      "url": "https://dev.to/shubhradev/my-nextjs-16-auth-passed-every-test-five-bugs-that-only-showed-up-when-i-wired-it-together-bgh",
+      "score": 34,
+      "description": "The three-layer model works. Part 1 of this series is the invoice incident that proved it. Part 2 is..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "AI Engineer Meets AI Engineer",
+      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
+      "score": 35,
+      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "score": 68,
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "A New Personal Best: What Six Months of Locking In Can Do",
+      "url": "https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k",
+      "score": 46,
+      "description": "Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Loop Engineering: Do Frontend and Fullstack Devs Actually Need It?",
+      "url": "https://dev.to/erikch/loop-engineering-do-frontend-and-fullstack-devs-actually-need-it-48eb",
+      "score": 43,
+      "description": "Introduction   I keep hearing the term loop engineering. It's all over my feed, every AI..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Evolution & Role of Context Engineering in AI Today",
+      "url": "https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f",
+      "score": 26,
+      "description": "I was taking a break from the AIE Workshops on Monday and stepped out by the food stands to check out..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Let Us Be Free",
+      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
+      "score": 27,
+      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "You Don’t Always Need The Frontier",
+      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
+      "score": 30,
+      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "DevRel in the Age of AI Is A Search for Meaning",
+      "url": "https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91",
+      "score": 17,
+      "description": "When I was in college, I read an essay called \"The Work of Art in the Age of Mechanical Reproduction\"..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "You're Not Lazy — You're Time Blind. Here's How Lock In Fixes It.",
+      "url": "https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej",
+      "score": 41,
+      "description": "I sat down to work for 2 hours. I actually worked for 45 minutes.  Sound familiar?  You open your..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "18 Hot Takes On Where AI is Headed Next",
+      "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
+      "score": 38,
+      "description": "by Peter Yang, Behind the Craft  Today, I want to share 18 hot takes on where I think the AI market..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Contain Multitudes (and Also Three Git Repos)",
+      "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf",
+      "score": 20,
+      "description": "A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.to sync tool, twenty years of blog posts, and the pipeline that crossposts posts like this one."
+    },
+    {
+      "source": "Dev.to",
+      "title": "It’s Time To Put Humans Back In The Software",
+      "url": "https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh",
+      "score": 28,
+      "description": "Software engineers have become overreliant on models to build applications, and it’s time to put..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "How to Shine as an Introvert in a Loud Tech World",
+      "url": "https://dev.to/konark_13/how-to-shine-as-an-introvert-in-a-loud-tech-world-4ipb",
+      "score": 32,
+      "description": "We have all been there. You walk into a room full of tech enthusiasts, the ambient noise is humming..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "I built a Chrome extension that lets you blow up any webpage",
+      "url": "https://dev.to/toffy/i-built-a-chrome-extension-that-lets-you-blow-up-any-webpage-5fdf",
+      "score": 19,
+      "description": "I built a Chrome extension called Site Bomb. It does exactly one thing: you drop little bombs..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
+      "score": 37,
+      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Gemma and sandboxing cause a stir at the World's Fair",
+      "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
+      "score": 32,
+      "description": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
+      "url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
+      "score": 36,
+      "description": "I built a 36-pattern checklist to catch AI writing tells in my own drafts, calibrated against..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "AI Made Code Free. So Why Are the Giants Still Winning? (And where solo devs actually beat them)",
+      "url": "https://dev.to/krlz/ai-made-code-free-so-why-are-the-giants-still-winning-and-where-solo-devs-actually-beat-them-5h27",
+      "score": 15,
+      "description": "Four big 2025 developer surveys, one honest read: AI is an amplifier, not an equalizer. Here's what that means for solo founders vs. giants — with the numbers."
+    }
+  ],
+  "lobsters": [
+    {
+      "source": "Lobsters",
+      "title": "Faster Builds with Elm 0.19.2",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "score": 66,
+      "tags": [
+        "elm",
+        "release"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "A Speed Limit for Computers",
+      "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+      "score": 68,
+      "tags": [
+        "philosophy"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "sneakerweb",
+      "url": "https://sneakerweb.org/",
+      "score": 49,
+      "tags": [
+        "distributed",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Jam Programming Language",
+      "url": "https://rapha.land/jam-programming-language/",
+      "score": 30,
+      "tags": [
+        "programming",
+        "rust",
+        "zig"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 4,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The (Petty) Reason We Didn't End Up Using jj",
+      "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
+      "score": 11,
+      "tags": [
+        "java"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Konform Browser 140.12.0-103",
+      "url": "https://codeberg.org/konform-browser/source/releases/tag/140.12.0.103",
+      "score": 10,
+      "tags": [
+        "browsers",
+        "linux",
+        "privacy",
+        "release",
+        "security",
+        "show"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Caught a .git/config crawler",
+      "url": "https://bruceediger.com/posts/git-config-spider/",
+      "score": 16,
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Mr. Baby Paint & accidentally discovering a new cellular automata",
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "score": 33,
+      "tags": [
+        "design",
+        "graphics"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "PREEMPT_NONE Is Dead; Your Postgres Probably Doesn’t Care",
+      "url": "https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/",
+      "score": 16,
+      "tags": [
+        "databases",
+        "linux",
+        "performance"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Web Security docs on MDN",
+      "url": "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/",
+      "score": 27,
+      "tags": [
+        "release",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Can you run every line of code in Super Mario Bros.?",
+      "url": "https://www.youtube.com/watch?v=o0gOALTvkcc",
+      "score": 15,
+      "tags": [
+        "games",
+        "video"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Work In Progress Rust",
+      "url": "https://blog.dureuill.net/articles/wip/",
+      "score": 32,
+      "tags": [
+        "practices",
+        "rust"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "fin: a Jellyfin & Subsonic client for the terminal",
+      "url": "https://tangled.org/tsiry-sandratraina.com/fin",
+      "score": 16,
+      "tags": [
+        "rust",
+        "show"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What are you doing this week?",
+      "url": "",
+      "score": 11,
+      "tags": [
+        "ask",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
+      "url": "https://www.phoronix.com/news/Half-Life-2-ReactOS",
+      "score": 4,
+      "tags": [
+        "windows"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Postgres Is Enough",
+      "url": "https://postgresisenough.dev",
+      "score": 6,
+      "tags": [
+        "databases"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Rayfish - P2P VPN built on top of Iroh",
+      "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+      "score": 40,
+      "tags": [
+        "distributed",
+        "networking",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Hacking the Kyocera KY-42C",
+      "url": "https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c",
+      "score": 4,
+      "tags": [
+        "hardware",
+        "reversing"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "If you’re a button, you have one job",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "score": 94,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Embedding information in disorder",
+      "url": "https://thoughts.hmmz.org/2026-07-05.html",
+      "score": 29,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Seventy Years of Parsing: Theoretical and Practical Consequences",
+      "url": "https://langsec.org/spw26/papers/lucas-70-years-of-parsing.pdf",
+      "score": 4,
+      "tags": [
+        "compsci",
+        "pdf"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "How a Skiing Accident Put Our Development Practices to the test",
+      "url": "https://blog.enioka.com/2026/07/03/how-a-skiing-accident-put-our-development-practices-to-the-test/",
+      "score": 14,
+      "tags": [
+        "practices"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Backstage access: an unauthenticated SQL injection in Front Gate Tickets",
+      "url": "https://ian.sh/frontgate",
+      "score": 4,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86",
+      "url": "https://github.com/V4bel/Januscape",
+      "score": 3,
+      "tags": [
+        "linux",
+        "security"
+      ]
+    }
+  ],
+  "github": [
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/asgeirtj",
+      "url": "https://github.com/sponsors/asgeirtj",
+      "score": 1386,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        asgeirtj /\n\n      system_prompts_leaks  \n\n    \n      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 1114,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        addyosmani /\n\n      agent-skills  \n\n    \n      Production-grade engineering skills for AI coding agents.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/Zackriya-Solutions",
+      "url": "https://github.com/sponsors/Zackriya-Solutions",
+      "score": 2493,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        Zackriya-Solutions /\n\n      meetily  \n\n    \n      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+      "language": "Rust"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "score": 471,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        ruvnet /\n\n      RuView  \n\n    \n      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/Leonxlnx",
+      "url": "https://github.com/sponsors/Leonxlnx",
+      "score": 1453,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        Leonxlnx /\n\n      taste-skill  \n\n    \n      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "score": 611,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        alirezarezvani /\n\n      claude-skills  \n\n    \n      345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "score": 910,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        openai /\n\n      codex-plugin-cc  \n\n    \n      Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "score": 511,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        mvanhorn /\n\n      last30days-skill  \n\n    \n      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/ogulcancelik",
+      "url": "https://github.com/sponsors/ogulcancelik",
+      "score": 783,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        ogulcancelik /\n\n      herdr  \n\n    \n      agent multiplexer that lives in your terminal.",
+      "language": "Rust"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "score": 539,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        bradautomates /\n\n      claude-video  \n\n    \n      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "score": 178,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        karakeep-app /\n\n      karakeep  \n\n    \n      A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 834,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        firecrawl /\n\n      firecrawl  \n\n    \n      The API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/steipete",
+      "url": "https://github.com/sponsors/steipete",
+      "score": 598,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        steipete /\n\n      CodexBar  \n\n    \n      Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "score": 355,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        alibaba /\n\n      zvec  \n\n    \n      A lightweight, lightning-fast, in-process vector database",
+      "language": "C++"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/sindresorhus",
+      "url": "https://github.com/sponsors/sindresorhus",
+      "score": 393,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        sindresorhus /\n\n      awesome  \n\n    \n      😎 Awesome lists about all kinds of interesting topics",
+      "language": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "score": 293,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        gastownhall /\n\n      gastown  \n\n    \n      Gas Town - multi-agent workspace manager",
+      "language": "Go"
+    }
+  ],
+  "all": [
+    {
+      "source": "Hacker News",
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "score": 205,
+      "hn_id": 48808482
+    },
+    {
+      "source": "Hacker News",
+      "title": "Price per 1M tokens is meaningless",
+      "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+      "score": 74,
+      "hn_id": 48809542
+    },
+    {
+      "source": "Hacker News",
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "score": 101,
+      "hn_id": 48808928
+    },
+    {
+      "source": "Hacker News",
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "score": 131,
+      "hn_id": 48808002
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linux on the Atari Jaguar. No, really.",
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "score": 65,
+      "hn_id": 48808663
+    },
+    {
+      "source": "Hacker News",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "score": 227,
+      "hn_id": 48805624
+    },
+    {
+      "source": "Hacker News",
+      "title": "Resetting Xbox",
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "score": 352,
+      "hn_id": 48804993
+    },
+    {
+      "source": "Hacker News",
+      "title": "Using precision editing to study human embryo development shows master gene",
+      "url": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
+      "score": 20,
+      "hn_id": 48769854
+    },
+    {
+      "source": "Hacker News",
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "url": "https://github.com/V4bel/Januscape",
+      "score": 51,
+      "hn_id": 48807908
+    },
+    {
+      "source": "Hacker News",
+      "title": "Aluminum foil (2021)",
+      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "score": 207,
+      "hn_id": 48804297
+    },
+    {
+      "source": "Hacker News",
+      "title": "Python 3.14 compiled to metal – no interpreter",
+      "url": "https://github.com/can1357/pon",
+      "score": 45,
+      "hn_id": 48809496
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kani: A Model Checker for Rust",
+      "url": "https://arxiv.org/abs/2607.01504",
+      "score": 98,
+      "hn_id": 48806410
+    },
+    {
+      "source": "Hacker News",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "score": 69,
+      "hn_id": 48807225
+    },
+    {
+      "source": "Hacker News",
+      "title": "Road to Elm 1.0",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "score": 279,
+      "hn_id": 48803364
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rotman Lens",
+      "url": "https://en.wikipedia.org/wiki/Rotman_lens",
+      "score": 28,
+      "hn_id": 48747889
+    },
+    {
+      "source": "Hacker News",
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "score": 353,
+      "hn_id": 48802535
+    },
+    {
+      "source": "Hacker News",
+      "title": "Egypt Is Building a New Nile",
+      "url": "https://www.theb1m.com/video/egypt-is-building-a-new-nile",
+      "score": 98,
+      "hn_id": 48779274
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Pulpie – Models for Cleaning the Web",
+      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+      "score": 65,
+      "hn_id": 48806575
+    },
+    {
+      "source": "Hacker News",
+      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
+      "url": "https://github.com/karola3vax/CS2FOW",
+      "score": 72,
+      "hn_id": 48805965
+    },
+    {
+      "source": "Hacker News",
+      "title": "Clojure 1.13 adds support for checked keys",
+      "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+      "score": 162,
+      "hn_id": 48767211
+    },
+    {
+      "source": "Hacker News",
+      "title": "1k Words: A Writing Contest",
+      "url": "https://writingclub.world/1picture1000words",
+      "score": 65,
+      "hn_id": 48806073
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+      "url": "https://andonlabs.com/blog/fable5-vending-bench",
+      "score": 156,
+      "hn_id": 48803762
+    },
+    {
+      "source": "Hacker News",
+      "title": "Introduction to Genomics for Engineers",
+      "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+      "score": 207,
+      "hn_id": 48760424
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hobbes – A Language and Embedded JIT Compiler",
+      "url": "https://github.com/morganstanley/hobbes",
+      "score": 15,
+      "hn_id": 48768935
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+      "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+      "score": 282,
+      "hn_id": 48804193
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pros and Cons of Solo Development",
+      "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+      "score": 78,
+      "hn_id": 48808508
+    },
+    {
+      "source": "Hacker News",
+      "title": "Should DayQuil Be Legal?",
+      "url": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
+      "score": 142,
+      "hn_id": 48806289
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apricot Computers: An underrated British brand",
+      "url": "https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/",
+      "score": 69,
+      "hn_id": 48743362
+    },
+    {
+      "source": "Hacker News",
+      "title": "Eternal Software Initiative Based on Subleq One-Instruction-Set Computer",
+      "url": "https://github.com/adriancable/eternal",
+      "score": 16,
+      "hn_id": 48806156
+    },
+    {
+      "source": "Dev.to",
+      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
+      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
+      "score": 66,
+      "description": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "My First Year at DEV Recap",
+      "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2",
+      "score": 69,
+      "description": "I heard about DEV a while back from a former colleague who was posting regularly back then. She won a..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Future Of AI Is Local And Open",
+      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
+      "score": 48,
+      "description": "There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
+      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
+      "score": 64,
+      "description": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
+      "url": "https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh",
+      "score": 128,
+      "description": "TL;DR  Anthropic recently published When AI Builds Itself, an essay explaining how AI is..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "score": 66,
+      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-18mk",
+      "score": 49,
+      "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants, and a $60K APAC Hackathon",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp",
+      "score": 65,
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Play today’s game from Issue #2 of The Daily Context!",
+      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
+      "score": 35,
+      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Log Is the Agent",
+      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
+      "score": 47,
+      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Tried to Escape LeetCode for 2 Years (But Here We Are)",
+      "url": "https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99",
+      "score": 47,
+      "description": "Seriously, LeetCode in 2026? Everyone is saying HackerRank just killed LeetCode, and yet here I am,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "My Next.js 16 Auth Passed Every Test. Five Bugs That Only Showed Up When I Wired It Together.",
+      "url": "https://dev.to/shubhradev/my-nextjs-16-auth-passed-every-test-five-bugs-that-only-showed-up-when-i-wired-it-together-bgh",
+      "score": 34,
+      "description": "The three-layer model works. Part 1 of this series is the invoice incident that proved it. Part 2 is..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "AI Engineer Meets AI Engineer",
+      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
+      "score": 35,
+      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "score": 68,
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "A New Personal Best: What Six Months of Locking In Can Do",
+      "url": "https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k",
+      "score": 46,
+      "description": "Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Loop Engineering: Do Frontend and Fullstack Devs Actually Need It?",
+      "url": "https://dev.to/erikch/loop-engineering-do-frontend-and-fullstack-devs-actually-need-it-48eb",
+      "score": 43,
+      "description": "Introduction   I keep hearing the term loop engineering. It's all over my feed, every AI..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Evolution & Role of Context Engineering in AI Today",
+      "url": "https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f",
+      "score": 26,
+      "description": "I was taking a break from the AIE Workshops on Monday and stepped out by the food stands to check out..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Let Us Be Free",
+      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
+      "score": 27,
+      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "You Don’t Always Need The Frontier",
+      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
+      "score": 30,
+      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "DevRel in the Age of AI Is A Search for Meaning",
+      "url": "https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91",
+      "score": 17,
+      "description": "When I was in college, I read an essay called \"The Work of Art in the Age of Mechanical Reproduction\"..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "You're Not Lazy — You're Time Blind. Here's How Lock In Fixes It.",
+      "url": "https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej",
+      "score": 41,
+      "description": "I sat down to work for 2 hours. I actually worked for 45 minutes.  Sound familiar?  You open your..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "18 Hot Takes On Where AI is Headed Next",
+      "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
+      "score": 38,
+      "description": "by Peter Yang, Behind the Craft  Today, I want to share 18 hot takes on where I think the AI market..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "I Contain Multitudes (and Also Three Git Repos)",
+      "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf",
+      "score": 20,
+      "description": "A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.to sync tool, twenty years of blog posts, and the pipeline that crossposts posts like this one."
+    },
+    {
+      "source": "Dev.to",
+      "title": "It’s Time To Put Humans Back In The Software",
+      "url": "https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh",
+      "score": 28,
+      "description": "Software engineers have become overreliant on models to build applications, and it’s time to put..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "How to Shine as an Introvert in a Loud Tech World",
+      "url": "https://dev.to/konark_13/how-to-shine-as-an-introvert-in-a-loud-tech-world-4ipb",
+      "score": 32,
+      "description": "We have all been there. You walk into a room full of tech enthusiasts, the ambient noise is humming..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "I built a Chrome extension that lets you blow up any webpage",
+      "url": "https://dev.to/toffy/i-built-a-chrome-extension-that-lets-you-blow-up-any-webpage-5fdf",
+      "score": 19,
+      "description": "I built a Chrome extension called Site Bomb. It does exactly one thing: you drop little bombs..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
+      "score": 37,
+      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Gemma and sandboxing cause a stir at the World's Fair",
+      "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
+      "score": 32,
+      "description": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
+      "url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
+      "score": 36,
+      "description": "I built a 36-pattern checklist to catch AI writing tells in my own drafts, calibrated against..."
+    },
+    {
+      "source": "Dev.to",
+      "title": "AI Made Code Free. So Why Are the Giants Still Winning? (And where solo devs actually beat them)",
+      "url": "https://dev.to/krlz/ai-made-code-free-so-why-are-the-giants-still-winning-and-where-solo-devs-actually-beat-them-5h27",
+      "score": 15,
+      "description": "Four big 2025 developer surveys, one honest read: AI is an amplifier, not an equalizer. Here's what that means for solo founders vs. giants — with the numbers."
+    },
+    {
+      "source": "Lobsters",
+      "title": "Faster Builds with Elm 0.19.2",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "score": 66,
+      "tags": [
+        "elm",
+        "release"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "A Speed Limit for Computers",
+      "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+      "score": 68,
+      "tags": [
+        "philosophy"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "sneakerweb",
+      "url": "https://sneakerweb.org/",
+      "score": 49,
+      "tags": [
+        "distributed",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Jam Programming Language",
+      "url": "https://rapha.land/jam-programming-language/",
+      "score": 30,
+      "tags": [
+        "programming",
+        "rust",
+        "zig"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 4,
+      "tags": [
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The (Petty) Reason We Didn't End Up Using jj",
+      "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
+      "score": 11,
+      "tags": [
+        "java"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Konform Browser 140.12.0-103",
+      "url": "https://codeberg.org/konform-browser/source/releases/tag/140.12.0.103",
+      "score": 10,
+      "tags": [
+        "browsers",
+        "linux",
+        "privacy",
+        "release",
+        "security",
+        "show"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Caught a .git/config crawler",
+      "url": "https://bruceediger.com/posts/git-config-spider/",
+      "score": 16,
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Mr. Baby Paint & accidentally discovering a new cellular automata",
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "score": 33,
+      "tags": [
+        "design",
+        "graphics"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "PREEMPT_NONE Is Dead; Your Postgres Probably Doesn’t Care",
+      "url": "https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/",
+      "score": 16,
+      "tags": [
+        "databases",
+        "linux",
+        "performance"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Web Security docs on MDN",
+      "url": "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/",
+      "score": 27,
+      "tags": [
+        "release",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Can you run every line of code in Super Mario Bros.?",
+      "url": "https://www.youtube.com/watch?v=o0gOALTvkcc",
+      "score": 15,
+      "tags": [
+        "games",
+        "video"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Work In Progress Rust",
+      "url": "https://blog.dureuill.net/articles/wip/",
+      "score": 32,
+      "tags": [
+        "practices",
+        "rust"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "fin: a Jellyfin & Subsonic client for the terminal",
+      "url": "https://tangled.org/tsiry-sandratraina.com/fin",
+      "score": 16,
+      "tags": [
+        "rust",
+        "show"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What are you doing this week?",
+      "url": "",
+      "score": 11,
+      "tags": [
+        "ask",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
+      "url": "https://www.phoronix.com/news/Half-Life-2-ReactOS",
+      "score": 4,
+      "tags": [
+        "windows"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Postgres Is Enough",
+      "url": "https://postgresisenough.dev",
+      "score": 6,
+      "tags": [
+        "databases"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Rayfish - P2P VPN built on top of Iroh",
+      "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+      "score": 40,
+      "tags": [
+        "distributed",
+        "networking",
+        "vibecoding"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Hacking the Kyocera KY-42C",
+      "url": "https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c",
+      "score": 4,
+      "tags": [
+        "hardware",
+        "reversing"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "If you’re a button, you have one job",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "score": 94,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Embedding information in disorder",
+      "url": "https://thoughts.hmmz.org/2026-07-05.html",
+      "score": 29,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Seventy Years of Parsing: Theoretical and Practical Consequences",
+      "url": "https://langsec.org/spw26/papers/lucas-70-years-of-parsing.pdf",
+      "score": 4,
+      "tags": [
+        "compsci",
+        "pdf"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "How a Skiing Accident Put Our Development Practices to the test",
+      "url": "https://blog.enioka.com/2026/07/03/how-a-skiing-accident-put-our-development-practices-to-the-test/",
+      "score": 14,
+      "tags": [
+        "practices"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Backstage access: an unauthenticated SQL injection in Front Gate Tickets",
+      "url": "https://ian.sh/frontgate",
+      "score": 4,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86",
+      "url": "https://github.com/V4bel/Januscape",
+      "score": 3,
+      "tags": [
+        "linux",
+        "security"
+      ]
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/asgeirtj",
+      "url": "https://github.com/sponsors/asgeirtj",
+      "score": 1386,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        asgeirtj /\n\n      system_prompts_leaks  \n\n    \n      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 1114,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        addyosmani /\n\n      agent-skills  \n\n    \n      Production-grade engineering skills for AI coding agents.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/Zackriya-Solutions",
+      "url": "https://github.com/sponsors/Zackriya-Solutions",
+      "score": 2493,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        Zackriya-Solutions /\n\n      meetily  \n\n    \n      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+      "language": "Rust"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "score": 471,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        ruvnet /\n\n      RuView  \n\n    \n      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/Leonxlnx",
+      "url": "https://github.com/sponsors/Leonxlnx",
+      "score": 1453,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        Leonxlnx /\n\n      taste-skill  \n\n    \n      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "score": 611,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        alirezarezvani /\n\n      claude-skills  \n\n    \n      345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "score": 910,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        openai /\n\n      codex-plugin-cc  \n\n    \n      Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "score": 511,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        mvanhorn /\n\n      last30days-skill  \n\n    \n      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/ogulcancelik",
+      "url": "https://github.com/sponsors/ogulcancelik",
+      "score": 783,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        ogulcancelik /\n\n      herdr  \n\n    \n      agent multiplexer that lives in your terminal.",
+      "language": "Rust"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "score": 539,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        bradautomates /\n\n      claude-video  \n\n    \n      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "score": 178,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        karakeep-app /\n\n      karakeep  \n\n    \n      A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 834,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        firecrawl /\n\n      firecrawl  \n\n    \n      The API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/steipete",
+      "url": "https://github.com/sponsors/steipete",
+      "score": 598,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        steipete /\n\n      CodexBar  \n\n    \n      Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "score": 355,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        alibaba /\n\n      zvec  \n\n    \n      A lightweight, lightning-fast, in-process vector database",
+      "language": "C++"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sponsors/sindresorhus",
+      "url": "https://github.com/sponsors/sindresorhus",
+      "score": 393,
+      "description": "Sponsor\n    \n  \n\n\n\n      \n            \n    \n\n    \n\n        \n          Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        sindresorhus /\n\n      awesome  \n\n    \n      😎 Awesome lists about all kinds of interesting topics",
+      "language": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "score": 293,
+      "description": "Star\n\n\n  \n\n  \n    \n    \n\n\n      \n        gastownhall /\n\n      gastown  \n\n    \n      Gas Town - multi-agent workspace manager",
+      "language": "Go"
+    }
+  ]
+}

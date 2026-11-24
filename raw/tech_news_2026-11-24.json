@@ -1,0 +1,1923 @@
+{
+  "hn": [
+    {
+      "source": "Hacker News",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "score": 1554,
+      "hn_id": 50611576
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "score": 947,
+      "hn_id": 50614249
+    },
+    {
+      "source": "Hacker News",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "score": 941,
+      "hn_id": 50609685
+    },
+    {
+      "source": "Hacker News",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "score": 881,
+      "hn_id": 50606192
+    },
+    {
+      "source": "Hacker News",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 571,
+      "hn_id": 50607261
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "score": 513,
+      "hn_id": 50615308
+    },
+    {
+      "source": "Hacker News",
+      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "url": "https://arm.jonpalmisc.com/",
+      "score": 492,
+      "hn_id": 50617499
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "score": 295,
+      "hn_id": 50616933
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker",
+      "score": 234,
+      "hn_id": 50610318
+    },
+    {
+      "source": "Hacker News",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "score": 233,
+      "hn_id": 50587439
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "score": 231,
+      "hn_id": 50615481
+    },
+    {
+      "source": "Hacker News",
+      "title": "The next circle of security hell",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "score": 212,
+      "hn_id": 50610334
+    },
+    {
+      "source": "Hacker News",
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "score": 184,
+      "hn_id": 50610743
+    },
+    {
+      "source": "Hacker News",
+      "title": "Don't keep your SSH keys on disk",
+      "url": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
+      "score": 113,
+      "hn_id": 50609579
+    },
+    {
+      "source": "Hacker News",
+      "title": "What's the difference between an integer and a pointer? (2018)",
+      "url": "https://blog.regehr.org/archives/1621",
+      "score": 96,
+      "hn_id": 50587286
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Drive around my village in 3D",
+      "url": "https://cherwellvalleymotorclub.app",
+      "score": 87,
+      "hn_id": 50574412
+    },
+    {
+      "source": "Hacker News",
+      "title": "Let's Meet in the Middle",
+      "url": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
+      "score": 70,
+      "hn_id": 50577534
+    },
+    {
+      "source": "Hacker News",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "score": 68,
+      "hn_id": 50611402
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building a wireless network adapter for the Super Nintendo",
+      "url": "https://boland.dev/snet/",
+      "score": 58,
+      "hn_id": 50611861
+    },
+    {
+      "source": "Hacker News",
+      "title": "Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "score": 39,
+      "hn_id": 50618490
+    },
+    {
+      "source": "Hacker News",
+      "title": "How should an LLM see a computer?",
+      "url": "https://www.greptile.com/blog/trex-computer-use",
+      "score": 25,
+      "hn_id": 50615520
+    },
+    {
+      "source": "Hacker News",
+      "title": "Derivative Flipping",
+      "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+      "score": 20,
+      "hn_id": 50594935
+    },
+    {
+      "source": "Hacker News",
+      "title": "Crafting Targeted MP4 Fuzzers",
+      "url": "https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/",
+      "score": 5,
+      "hn_id": 50573996
+    },
+    {
+      "source": "Hacker News",
+      "title": "The horse made the state",
+      "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "score": 3,
+      "hn_id": 50619186
+    }
+  ],
+  "reddit": [
+    {
+      "source": "Reddit",
+      "title": "Announcing Rust 1.100.0",
+      "url": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Formal Verification is Not Verifiable: Bouba and Kiki Software",
+      "url": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Some Projects Need to Fail",
+      "url": "https://www.reddit.com/r/programming/comments/1xvx0nl/some_projects_need_to_fail/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
+      "url": "https://www.reddit.com/r/programming/comments/1xv8oe9/formatting_an_entire_25_million_line_codebase/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Uber’s Rate Limiting System",
+      "url": "https://www.reddit.com/r/programming/comments/1xvmjn4/ubers_rate_limiting_system/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "The reason you aren’t making $300k as a developer",
+      "url": "https://www.reddit.com/r/programming/comments/1xvyyl1/the_reason_you_arent_making_300k_as_a_developer/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Concurrent Shell Command Queues",
+      "url": "https://www.reddit.com/r/programming/comments/1xviun2/concurrent_shell_command_queues/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "ML Modules for Mere Mortals",
+      "url": "https://www.reddit.com/r/programming/comments/1xva4qf/ml_modules_for_mere_mortals/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "How Cloudflare uses QuePaxa—a leaderless, fault-detection-free consensus algorithm—for its global control plane",
+      "url": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "How I accidentally became a millionaire",
+      "url": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
+      "score": 0,
+      "comments": 0
+    }
+  ],
+  "devto": [
+    {
+      "source": "Dev.to",
+      "title": "The Third Cup: Change Never Sleeps",
+      "url": "https://dev.to/thethirdcup/the-third-cup-change-never-sleeps-2ldf",
+      "score": 94,
+      "description": "An Ancient Idea in a Digital World     It's 1:30 a.m.  The café is still open, although only a few...",
+      "tags": [
+        "discuss",
+        "career",
+        "programming",
+        "management"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "What are you Grateful for this Thanksgiving?",
+      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
+      "score": 83,
+      "description": "Thanksgiving is almost here (Just days away)..and I have no plans yet.    Don't worry, I will think...",
+      "tags": [
+        "discuss",
+        "community",
+        "watercooler",
+        "gratitude"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "🎨 NECOZ Art Class: The Day 35 Cats Painted a Portrait of the King 👑 | How Pixels Work",
+      "url": "https://dev.to/necoz/necoz-art-class-the-day-35-cats-painted-a-portrait-of-the-king-how-pixels-work-10en",
+      "score": 56,
+      "description": "It was 9 AM at NECOZ School. 🏫  Art Class had just begun when King Nyaomaru walked in wearing his...",
+      "tags": [
+        "python",
+        "beginners",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "C# 15 Unpacked: Practical Use Cases for Unions with Real Examples",
+      "url": "https://dev.to/georgekobaidze/c-15-unpacked-practical-use-cases-for-unions-with-real-examples-e32",
+      "score": 32,
+      "description": "All the code in this series is available on GitHub. Clone it, run it, and try breaking it yourself....",
+      "tags": [
+        "microsoft",
+        "dotnet",
+        "csharp",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Wrist vs Camera: Can I Trust a Camera Pulse on My Own Laptop?",
+      "url": "https://dev.to/dannwaneri/wrist-vs-camera-can-i-trust-a-camera-pulse-on-my-own-laptop-4g3o",
+      "score": 25,
+      "description": "This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   My laptop...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Stand-In Studio: I Automated How Much of You Others See in Video Calls, with SmartSpectra! 📸",
+      "url": "https://dev.to/fm/stand-in-studio-i-automated-how-much-of-you-others-see-in-video-calls-with-smartspectra-5bo8",
+      "score": 23,
+      "description": "This is a submission for the Presage SmartSpectra SDK Challenge.           What I Built   Every video...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge",
+        "automation",
+        "privacy"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
+      "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9",
+      "score": 22,
+      "description": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
+      "tags": [
+        "webdev",
+        "ai",
+        "typescript",
+        "testing"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "8 Best MCP Gateways",
+      "url": "https://dev.to/varshithvhegde/8-best-mcp-gateways-4ddf",
+      "score": 22,
+      "description": "Connecting one agent to one MCP server is easy. You paste a URL, approve a prompt, and the agent...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "webdev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Your agent's tool registry is an API. Stop reviewing it like config.",
+      "url": "https://dev.to/cyclopt_dimitrisk/your-agents-tool-registry-is-an-api-stop-reviewing-it-like-config-40op",
+      "score": 20,
+      "description": "Most agent security conversations start with the model. Can it be jailbroken? Will it follow an...",
+      "tags": [
+        "ai",
+        "security",
+        "programming",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "We Automated the Software Factory. Why Am I Still Clicking Approve on Typo Fixes?",
+      "url": "https://dev.to/therealmrmumba/we-automated-the-software-factory-why-am-i-still-clicking-approve-on-typo-fixes-1fc1",
+      "score": 17,
+      "description": "Coding agents can now take a ticket, write the code, and open the pull request on their own. That...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "The $2,400 Auto Repair Estimate Nobody Can Read. I Built the Decoder That Doesn't Guess Prices.",
+      "url": "https://dev.to/debashish_ghosal/the-2400-auto-repair-estimate-nobody-can-read-i-built-the-decoder-that-doesnt-guess-prices-295p",
+      "score": 15,
+      "description": "The $2,400 Auto Repair Estimate Nobody Can Read. I Built the Decoder That Doesn't Guess...",
+      "tags": [
+        "discuss",
+        "ai",
+        "showdev",
+        "productivity"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Actually Work Under the Hood",
+      "url": "https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136",
+      "score": 9,
+      "description": "A visual, 10-minute deep dive into Netlify architecture. Learn how content-addressed trees eliminate cache invalidation, how atomic pointer flips guarantee zero asset drift, why Deno V8 edge isolates start in 5ms, and how the Smart CDN routes requests without central bottlenecks.",
+      "tags": [
+        "netlify",
+        "webdev",
+        "architecture",
+        "devops"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Why my local Docker registry broke the day I upgraded",
+      "url": "https://dev.to/alexgeorgiev17/why-my-local-docker-registry-broke-the-day-i-upgraded-3olg",
+      "score": 9,
+      "description": "Docker Engine 29.10 quietly stopped trusting 127.0.0.1 registries once any other insecure registry is configured. I measured exactly when it breaks, which fix only covers one port, and which one doesn't need a daemon restart.",
+      "tags": [
+        "docker",
+        "devops",
+        "security",
+        "containers"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Moving an ECS task to Graviton? Check which ECR digest you pinned",
+      "url": "https://dev.to/aws-builders/moving-an-ecs-task-to-graviton-check-which-ecr-digest-you-pinned-3nfk",
+      "score": 7,
+      "description": "A pull request changes a Linux Fargate task from X86_64 to ARM64. The image field stays exactly as it...",
+      "tags": [
+        "devops",
+        "aws",
+        "containers",
+        "docker"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I fault-injected 60 live MCP tool failures: LLMs lied, my verifier hit a 38% false-positive wall, and here is what fixed both",
+      "url": "https://dev.to/rollsolo/i-fault-injected-60-live-mcp-tool-failures-llms-lied-my-verifier-hit-a-38-false-positive-wall-4iac",
+      "score": 7,
+      "description": "(Paper now live on arXiv: arXiv:2611.27095. All code, fault-injection harnesses, SHA-256 osaudit...",
+      "tags": [
+        "ai",
+        "security",
+        "python",
+        "mcp"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Rent the Job. Own the Life.",
+      "url": "https://dev.to/aws-heroes/rent-the-job-own-the-life-12g3",
+      "score": 6,
+      "description": "I own a house. I've also rented a lot of apartments. I treated them very differently. In my...",
+      "tags": [
+        "career",
+        "productivity"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "GLM-5.4 Explained: How Z.ai Turned a 750B Model Into a Loop Transformer",
+      "url": "https://dev.to/jamilxt/glm-54-explained-how-zai-turned-a-750b-model-into-a-loop-transformer-53dl",
+      "score": 6,
+      "description": "Looped transformers had a busy week. Thinking Machines shipped Inkling 2 Mini, a small open-weights...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Blobasaur and the 4th Cross way: how Zerodha's ~35-person tech team keeps shipping open source",
+      "url": "https://dev.to/amananandrai/blobasaur-and-the-4th-cross-way-how-zerodhas-35-person-tech-team-keeps-shipping-open-source-39o9",
+      "score": 5,
+      "description": "TL;DR: Zerodha just open-sourced Blobasaur, a sharded blob server written in Rust. It speaks the...",
+      "tags": [
+        "opensource",
+        "rust",
+        "sqlite",
+        "architecture"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Loop Transformers: Thinking Deeper Without Getting Bigger (GLM-5.4 & Inkling 2 Mini)",
+      "url": "https://dev.to/amananandrai/loop-transformers-thinking-deeper-without-getting-bigger-glm-54-inkling-2-mini-501m",
+      "score": 5,
+      "description": "A loop transformer runs the same block of layers more than once for every token. That lets a model...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "deeplearning"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Blink Board: Asking for water with one long blink and a laptop webcam",
+      "url": "https://dev.to/ramya_srim/blink-board-asking-for-water-with-one-long-blink-and-a-laptop-webcam-1bgo",
+      "score": 4,
+      "description": "This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   Blink Board...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge",
+        "electron",
+        "showdev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Breathmark: A Webcam App That Shows Musicians Where They Stop Breathing",
+      "url": "https://dev.to/arya_koste_5845807df94776/breathmark-a-webcam-app-that-shows-musicians-where-they-stop-breathing-5ab7",
+      "score": 1,
+      "description": "This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   Every music...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge",
+        "music",
+        "webdev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Riemann Hypothesis draft by Masullo: what AI auditors and a Lean bug tracker found in three days",
+      "url": "https://dev.to/axrisi/riemann-hypothesis-draft-by-masullo-what-ai-auditors-and-a-lean-bug-tracker-found-in-three-days-14cj",
+      "score": 1,
+      "description": "A 940-page human Riemann Hypothesis draft got AI-assisted audits within hours and a public Lean formalization. What the project's counts mean, what is attributed, and wha",
+      "tags": [
+        "ai",
+        "news",
+        "opensource",
+        "llm"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "De planilhas estáticas a Agent Skills: como estruturar BI e monetizar engenharia na Agensi",
+      "url": "https://dev.to/rafaeltozato/de-planilhas-estaticas-a-agent-skills-como-estruturar-bi-e-monetizar-engenharia-na-agensi-79j",
+      "score": 1,
+      "description": "Dados comerciais perdem valor estratégico quando ficam presos em planilhas estáticas e análises...",
+      "tags": [
+        "react",
+        "typescript",
+        "mcp",
+        "tooling"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "My Google Student Ambassador Journey 2026",
+      "url": "https://dev.to/im_ad/my-google-student-ambassador-journey-2026-5nk",
+      "score": 1,
+      "description": "My Experience as a Google Student Ambassador 2026 🚀   A few months ago, I got the...",
+      "tags": [
+        "career",
+        "community",
+        "google",
+        "learning"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Keyboard Accessibility Testing with Playwright: Modals, Menus, Tabs and the Bugs axe-core Misses",
+      "url": "https://dev.to/mick_michaels_b9eb/keyboard-accessibility-testing-with-playwright-modals-menus-tabs-and-the-bugs-axe-core-misses-12km",
+      "score": 0,
+      "description": "I built a small “Account settings” page with four everyday components: a clickable div that saves the...",
+      "tags": [
+        "a11y",
+        "playwright",
+        "testing",
+        "javascript"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "WebMCP in Practice — Keep Tools Honest When State Changes",
+      "url": "https://dev.to/playfulprogramming/webmcp-in-practice-keep-tools-honest-when-state-changes-cg5",
+      "score": 0,
+      "description": "An agent lists the DevDesk tasks and finds the one you just created. Before it calls set_task_status,...",
+      "tags": [
+        "webmcp",
+        "ai",
+        "typescript"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "How to simulate pouring a liquid with a robot arm in Python",
+      "url": "https://dev.to/pranay_argon/how-to-simulate-pouring-a-liquid-with-a-robot-arm-in-python-1e0i",
+      "score": 0,
+      "description": "How do you simulate pouring a liquid with a robot arm in Python? In the Alloy physics engine (pip...",
+      "tags": [
+        "robotics",
+        "python",
+        "simulation",
+        "machinelearning"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Why millions of agents don't need millions of VMs on Agent Substrate",
+      "url": "https://dev.to/googlecloud/why-millions-of-agents-dont-need-millions-of-vms-on-agent-substrate-2ech",
+      "score": 0,
+      "description": "How stateful agent harnesses run, suspend, and wake in under a second on Agent Substrate 1.0, from one VM to millions of actors.",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "infrastructure"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "CVE-2026-22816: CVE-2026-22816: Improper Repository Failure Handling and Dependency Confusion in Gradle",
+      "url": "https://dev.to/cverports/cve-2026-22816-cve-2026-22816-improper-repository-failure-handling-and-dependency-confusion-in-3cd2",
+      "score": 0,
+      "description": "CVE-2026-22816: Improper Repository Failure Handling and Dependency Confusion in...",
+      "tags": [
+        "security",
+        "cve",
+        "cybersecurity"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Kafka Listeners, Mail and Live Streams in Your Backend, With Records as Entities",
+      "url": "https://dev.to/codenameone/kafka-listeners-mail-and-live-streams-in-your-backend-with-records-as-entities-13ae",
+      "score": 0,
+      "description": "The Codename One backend now sends and receives messages over Kafka, RabbitMQ, Redis Streams, SQS and Pub/Sub, accepting Spring's listener annotations as written. It sends transactional email through SMTP or Amazon SES, streams server-sent events, an",
+      "tags": [
+        "java",
+        "mobile",
+        "android",
+        "ios"
+      ]
+    }
+  ],
+  "lobsters": [
+    {
+      "source": "Lobsters",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "score": 141,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Signal is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "score": 83,
+      "tags": [
+        "mobile",
+        "privacy"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "GitHub Actions accepts invalid YAML",
+      "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+      "score": 76,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Gliver completes the Guix desktop",
+      "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+      "score": 58,
+      "tags": [
+        "linux",
+        "lisp"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "score": 50,
+      "tags": [
+        "browsers"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Falsehoods Programmers Believe About ATProto",
+      "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+      "score": 45,
+      "tags": [
+        "api"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Quality IMAP, Part 2: Mailbox Concurrency",
+      "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/",
+      "score": 21,
+      "tags": [
+        "distributed",
+        "email",
+        "testing"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Good morning and welcome to my idea of a new web",
+      "url": "https://dave.writersweb.org/index.md",
+      "score": 20,
+      "tags": [
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "scriptura: a cozy corner for your scripts",
+      "url": "https://alanpearce.eu/post/scriptura/",
+      "score": 20,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Testing Terraform with AWS Emulator",
+      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+      "score": 15,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What If Netscape Did SSL the HTTP Way?",
+      "url": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+      "score": 14,
+      "tags": [
+        "cryptography",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
+      "url": "https://lambdacreate.com/posts/held-together-by-spare-time",
+      "score": 12,
+      "tags": [
+        "devops"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Calculate radio link placement and node amount for your city's mesh network",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "score": 11,
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Sneakernet",
+      "url": "https://sneakernet.eu/",
+      "score": 10,
+      "tags": [
+        "distributed",
+        "networking"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Simple Sudoku Solver in Verilog",
+      "url": "https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html",
+      "score": 10,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What are you doing this week?",
+      "url": "",
+      "score": 9,
+      "tags": [
+        "ask",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "On self-healing code and the obvious issue (2023)",
+      "url": "https://gynvael.coldwind.pl/?id=766",
+      "score": 9,
+      "tags": [
+        "building-ai-tooling",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Let's Meet in the Middle",
+      "url": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
+      "score": 8,
+      "tags": [
+        "api",
+        "culture"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
+      "url": "https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html",
+      "score": 8,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Reverse Engineering a Board Game",
+      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "score": 7,
+      "tags": [
+        "android",
+        "reversing",
+        "rust"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Marches & Gnats programming challenges",
+      "url": "https://mng.quest/",
+      "score": 3,
+      "tags": [
+        "games",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Swapping Jolt's sorted collections to a B+tree",
+      "url": "https://yogthos.net/posts/2026-11-23-b+trees.html",
+      "score": 2,
+      "tags": [
+        "clojure"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "My Django on the Med 2026",
+      "url": "https://www.paulox.net/2026/11/23/my-django-on-the-med-2026/",
+      "score": 2,
+      "tags": [
+        "python",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Steadfast Update II - Rewriting ASTs",
+      "url": "https://noteflakes.com/articles/2026-11-22-steadfast-update-2",
+      "score": 2,
+      "tags": [
+        "ruby"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "UQ researchers send an unblockable message using gravity",
+      "url": "https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity",
+      "score": 1,
+      "tags": [
+        "compsci",
+        "science"
+      ]
+    }
+  ],
+  "github": [
+    {
+      "source": "GitHub",
+      "title": "codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "score": 564986,
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown"
+    },
+    {
+      "source": "GitHub",
+      "title": "sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "url": "https://github.com/sindresorhus/awesome",
+      "score": 541605,
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "public-apis/public-apis: A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "score": 501029,
+      "description": "A collective list of free APIs",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "score": 475447,
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "freeCodeCamp/freeCodeCamp: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "score": 459536,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "EbookFoundation/free-programming-books: :books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "score": 402135,
+      "description": ":books: Freely available programming books",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 395109,
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "score": 378934,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "nilbuild/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "score": 372631,
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "score": 364850,
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "score": 339825,
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "vinta/awesome-python: The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "url": "https://github.com/vinta/awesome-python",
+      "score": 336682,
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 331299,
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "score": 324949,
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 309499,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript"
+    }
+  ],
+  "all": [
+    {
+      "source": "GitHub",
+      "title": "codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "score": 564986,
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown"
+    },
+    {
+      "source": "GitHub",
+      "title": "sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "url": "https://github.com/sindresorhus/awesome",
+      "score": 541605,
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "public-apis/public-apis: A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "score": 501029,
+      "description": "A collective list of free APIs",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "score": 475447,
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "freeCodeCamp/freeCodeCamp: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "score": 459536,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "EbookFoundation/free-programming-books: :books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "score": 402135,
+      "description": ":books: Freely available programming books",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 395109,
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "score": 378934,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "nilbuild/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "score": 372631,
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript"
+    },
+    {
+      "source": "GitHub",
+      "title": "jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "score": 364850,
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "score": 339825,
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "language": null
+    },
+    {
+      "source": "GitHub",
+      "title": "vinta/awesome-python: The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "url": "https://github.com/vinta/awesome-python",
+      "score": 336682,
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "language": "Python"
+    },
+    {
+      "source": "GitHub",
+      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 331299,
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "score": 324949,
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell"
+    },
+    {
+      "source": "GitHub",
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 309499,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "score": 1554,
+      "hn_id": 50611576
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "score": 947,
+      "hn_id": 50614249
+    },
+    {
+      "source": "Hacker News",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "score": 941,
+      "hn_id": 50609685
+    },
+    {
+      "source": "Hacker News",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "score": 881,
+      "hn_id": 50606192
+    },
+    {
+      "source": "Hacker News",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 571,
+      "hn_id": 50607261
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "score": 513,
+      "hn_id": 50615308
+    },
+    {
+      "source": "Hacker News",
+      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "url": "https://arm.jonpalmisc.com/",
+      "score": 492,
+      "hn_id": 50617499
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "score": 295,
+      "hn_id": 50616933
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker",
+      "score": 234,
+      "hn_id": 50610318
+    },
+    {
+      "source": "Hacker News",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "score": 233,
+      "hn_id": 50587439
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "score": 231,
+      "hn_id": 50615481
+    },
+    {
+      "source": "Hacker News",
+      "title": "The next circle of security hell",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "score": 212,
+      "hn_id": 50610334
+    },
+    {
+      "source": "Hacker News",
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "score": 184,
+      "hn_id": 50610743
+    },
+    {
+      "source": "Lobsters",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "score": 141,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Don't keep your SSH keys on disk",
+      "url": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
+      "score": 113,
+      "hn_id": 50609579
+    },
+    {
+      "source": "Hacker News",
+      "title": "What's the difference between an integer and a pointer? (2018)",
+      "url": "https://blog.regehr.org/archives/1621",
+      "score": 96,
+      "hn_id": 50587286
+    },
+    {
+      "source": "Dev.to",
+      "title": "The Third Cup: Change Never Sleeps",
+      "url": "https://dev.to/thethirdcup/the-third-cup-change-never-sleeps-2ldf",
+      "score": 94,
+      "description": "An Ancient Idea in a Digital World     It's 1:30 a.m.  The café is still open, although only a few...",
+      "tags": [
+        "discuss",
+        "career",
+        "programming",
+        "management"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Drive around my village in 3D",
+      "url": "https://cherwellvalleymotorclub.app",
+      "score": 87,
+      "hn_id": 50574412
+    },
+    {
+      "source": "Dev.to",
+      "title": "What are you Grateful for this Thanksgiving?",
+      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
+      "score": 83,
+      "description": "Thanksgiving is almost here (Just days away)..and I have no plans yet.    Don't worry, I will think...",
+      "tags": [
+        "discuss",
+        "community",
+        "watercooler",
+        "gratitude"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Signal is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "score": 83,
+      "tags": [
+        "mobile",
+        "privacy"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "GitHub Actions accepts invalid YAML",
+      "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+      "score": 76,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Let's Meet in the Middle",
+      "url": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
+      "score": 70,
+      "hn_id": 50577534
+    },
+    {
+      "source": "Hacker News",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "score": 68,
+      "hn_id": 50611402
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building a wireless network adapter for the Super Nintendo",
+      "url": "https://boland.dev/snet/",
+      "score": 58,
+      "hn_id": 50611861
+    },
+    {
+      "source": "Lobsters",
+      "title": "Gliver completes the Guix desktop",
+      "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+      "score": 58,
+      "tags": [
+        "linux",
+        "lisp"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "🎨 NECOZ Art Class: The Day 35 Cats Painted a Portrait of the King 👑 | How Pixels Work",
+      "url": "https://dev.to/necoz/necoz-art-class-the-day-35-cats-painted-a-portrait-of-the-king-how-pixels-work-10en",
+      "score": 56,
+      "description": "It was 9 AM at NECOZ School. 🏫  Art Class had just begun when King Nyaomaru walked in wearing his...",
+      "tags": [
+        "python",
+        "beginners",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "score": 50,
+      "tags": [
+        "browsers"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Falsehoods Programmers Believe About ATProto",
+      "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+      "score": 45,
+      "tags": [
+        "api"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "score": 39,
+      "hn_id": 50618490
+    },
+    {
+      "source": "Dev.to",
+      "title": "C# 15 Unpacked: Practical Use Cases for Unions with Real Examples",
+      "url": "https://dev.to/georgekobaidze/c-15-unpacked-practical-use-cases-for-unions-with-real-examples-e32",
+      "score": 32,
+      "description": "All the code in this series is available on GitHub. Clone it, run it, and try breaking it yourself....",
+      "tags": [
+        "microsoft",
+        "dotnet",
+        "csharp",
+        "programming"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "How should an LLM see a computer?",
+      "url": "https://www.greptile.com/blog/trex-computer-use",
+      "score": 25,
+      "hn_id": 50615520
+    },
+    {
+      "source": "Dev.to",
+      "title": "Wrist vs Camera: Can I Trust a Camera Pulse on My Own Laptop?",
+      "url": "https://dev.to/dannwaneri/wrist-vs-camera-can-i-trust-a-camera-pulse-on-my-own-laptop-4g3o",
+      "score": 25,
+      "description": "This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   My laptop...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Stand-In Studio: I Automated How Much of You Others See in Video Calls, with SmartSpectra! 📸",
+      "url": "https://dev.to/fm/stand-in-studio-i-automated-how-much-of-you-others-see-in-video-calls-with-smartspectra-5bo8",
+      "score": 23,
+      "description": "This is a submission for the Presage SmartSpectra SDK Challenge.           What I Built   Every video...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge",
+        "automation",
+        "privacy"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
+      "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9",
+      "score": 22,
+      "description": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
+      "tags": [
+        "webdev",
+        "ai",
+        "typescript",
+        "testing"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "8 Best MCP Gateways",
+      "url": "https://dev.to/varshithvhegde/8-best-mcp-gateways-4ddf",
+      "score": 22,
+      "description": "Connecting one agent to one MCP server is easy. You paste a URL, approve a prompt, and the agent...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "webdev"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Quality IMAP, Part 2: Mailbox Concurrency",
+      "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/",
+      "score": 21,
+      "tags": [
+        "distributed",
+        "email",
+        "testing"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Derivative Flipping",
+      "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+      "score": 20,
+      "hn_id": 50594935
+    },
+    {
+      "source": "Dev.to",
+      "title": "Your agent's tool registry is an API. Stop reviewing it like config.",
+      "url": "https://dev.to/cyclopt_dimitrisk/your-agents-tool-registry-is-an-api-stop-reviewing-it-like-config-40op",
+      "score": 20,
+      "description": "Most agent security conversations start with the model. Can it be jailbroken? Will it follow an...",
+      "tags": [
+        "ai",
+        "security",
+        "programming",
+        "discuss"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Good morning and welcome to my idea of a new web",
+      "url": "https://dave.writersweb.org/index.md",
+      "score": 20,
+      "tags": [
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "scriptura: a cozy corner for your scripts",
+      "url": "https://alanpearce.eu/post/scriptura/",
+      "score": 20,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "We Automated the Software Factory. Why Am I Still Clicking Approve on Typo Fixes?",
+      "url": "https://dev.to/therealmrmumba/we-automated-the-software-factory-why-am-i-still-clicking-approve-on-typo-fixes-1fc1",
+      "score": 17,
+      "description": "Coding agents can now take a ticket, write the code, and open the pull request on their own. That...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "The $2,400 Auto Repair Estimate Nobody Can Read. I Built the Decoder That Doesn't Guess Prices.",
+      "url": "https://dev.to/debashish_ghosal/the-2400-auto-repair-estimate-nobody-can-read-i-built-the-decoder-that-doesnt-guess-prices-295p",
+      "score": 15,
+      "description": "The $2,400 Auto Repair Estimate Nobody Can Read. I Built the Decoder That Doesn't Guess...",
+      "tags": [
+        "discuss",
+        "ai",
+        "showdev",
+        "productivity"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Testing Terraform with AWS Emulator",
+      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+      "score": 15,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What If Netscape Did SSL the HTTP Way?",
+      "url": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+      "score": 14,
+      "tags": [
+        "cryptography",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
+      "url": "https://lambdacreate.com/posts/held-together-by-spare-time",
+      "score": 12,
+      "tags": [
+        "devops"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Calculate radio link placement and node amount for your city's mesh network",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "score": 11,
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Sneakernet",
+      "url": "https://sneakernet.eu/",
+      "score": 10,
+      "tags": [
+        "distributed",
+        "networking"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Simple Sudoku Solver in Verilog",
+      "url": "https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html",
+      "score": 10,
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Actually Work Under the Hood",
+      "url": "https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136",
+      "score": 9,
+      "description": "A visual, 10-minute deep dive into Netlify architecture. Learn how content-addressed trees eliminate cache invalidation, how atomic pointer flips guarantee zero asset drift, why Deno V8 edge isolates start in 5ms, and how the Smart CDN routes requests without central bottlenecks.",
+      "tags": [
+        "netlify",
+        "webdev",
+        "architecture",
+        "devops"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Why my local Docker registry broke the day I upgraded",
+      "url": "https://dev.to/alexgeorgiev17/why-my-local-docker-registry-broke-the-day-i-upgraded-3olg",
+      "score": 9,
+      "description": "Docker Engine 29.10 quietly stopped trusting 127.0.0.1 registries once any other insecure registry is configured. I measured exactly when it breaks, which fix only covers one port, and which one doesn't need a daemon restart.",
+      "tags": [
+        "docker",
+        "devops",
+        "security",
+        "containers"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "What are you doing this week?",
+      "url": "",
+      "score": 9,
+      "tags": [
+        "ask",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "On self-healing code and the obvious issue (2023)",
+      "url": "https://gynvael.coldwind.pl/?id=766",
+      "score": 9,
+      "tags": [
+        "building-ai-tooling",
+        "security"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Let's Meet in the Middle",
+      "url": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
+      "score": 8,
+      "tags": [
+        "api",
+        "culture"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
+      "url": "https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html",
+      "score": 8,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Moving an ECS task to Graviton? Check which ECR digest you pinned",
+      "url": "https://dev.to/aws-builders/moving-an-ecs-task-to-graviton-check-which-ecr-digest-you-pinned-3nfk",
+      "score": 7,
+      "description": "A pull request changes a Linux Fargate task from X86_64 to ARM64. The image field stays exactly as it...",
+      "tags": [
+        "devops",
+        "aws",
+        "containers",
+        "docker"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "I fault-injected 60 live MCP tool failures: LLMs lied, my verifier hit a 38% false-positive wall, and here is what fixed both",
+      "url": "https://dev.to/rollsolo/i-fault-injected-60-live-mcp-tool-failures-llms-lied-my-verifier-hit-a-38-false-positive-wall-4iac",
+      "score": 7,
+      "description": "(Paper now live on arXiv: arXiv:2611.27095. All code, fault-injection harnesses, SHA-256 osaudit...",
+      "tags": [
+        "ai",
+        "security",
+        "python",
+        "mcp"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Reverse Engineering a Board Game",
+      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "score": 7,
+      "tags": [
+        "android",
+        "reversing",
+        "rust"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Rent the Job. Own the Life.",
+      "url": "https://dev.to/aws-heroes/rent-the-job-own-the-life-12g3",
+      "score": 6,
+      "description": "I own a house. I've also rented a lot of apartments. I treated them very differently. In my...",
+      "tags": [
+        "career",
+        "productivity"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "GLM-5.4 Explained: How Z.ai Turned a 750B Model Into a Loop Transformer",
+      "url": "https://dev.to/jamilxt/glm-54-explained-how-zai-turned-a-750b-model-into-a-loop-transformer-53dl",
+      "score": 6,
+      "description": "Looped transformers had a busy week. Thinking Machines shipped Inkling 2 Mini, a small open-weights...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "programming"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Crafting Targeted MP4 Fuzzers",
+      "url": "https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/",
+      "score": 5,
+      "hn_id": 50573996
+    },
+    {
+      "source": "Dev.to",
+      "title": "Blobasaur and the 4th Cross way: how Zerodha's ~35-person tech team keeps shipping open source",
+      "url": "https://dev.to/amananandrai/blobasaur-and-the-4th-cross-way-how-zerodhas-35-person-tech-team-keeps-shipping-open-source-39o9",
+      "score": 5,
+      "description": "TL;DR: Zerodha just open-sourced Blobasaur, a sharded blob server written in Rust. It speaks the...",
+      "tags": [
+        "opensource",
+        "rust",
+        "sqlite",
+        "architecture"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Loop Transformers: Thinking Deeper Without Getting Bigger (GLM-5.4 & Inkling 2 Mini)",
+      "url": "https://dev.to/amananandrai/loop-transformers-thinking-deeper-without-getting-bigger-glm-54-inkling-2-mini-501m",
+      "score": 5,
+      "description": "A loop transformer runs the same block of layers more than once for every token. That lets a model...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "deeplearning"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Blink Board: Asking for water with one long blink and a laptop webcam",
+      "url": "https://dev.to/ramya_srim/blink-board-asking-for-water-with-one-long-blink-and-a-laptop-webcam-1bgo",
+      "score": 4,
+      "description": "This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   Blink Board...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge",
+        "electron",
+        "showdev"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "The horse made the state",
+      "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "score": 3,
+      "hn_id": 50619186
+    },
+    {
+      "source": "Lobsters",
+      "title": "Marches & Gnats programming challenges",
+      "url": "https://mng.quest/",
+      "score": 3,
+      "tags": [
+        "games",
+        "programming"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Swapping Jolt's sorted collections to a B+tree",
+      "url": "https://yogthos.net/posts/2026-11-23-b+trees.html",
+      "score": 2,
+      "tags": [
+        "clojure"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "My Django on the Med 2026",
+      "url": "https://www.paulox.net/2026/11/23/my-django-on-the-med-2026/",
+      "score": 2,
+      "tags": [
+        "python",
+        "web"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Steadfast Update II - Rewriting ASTs",
+      "url": "https://noteflakes.com/articles/2026-11-22-steadfast-update-2",
+      "score": 2,
+      "tags": [
+        "ruby"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Breathmark: A Webcam App That Shows Musicians Where They Stop Breathing",
+      "url": "https://dev.to/arya_koste_5845807df94776/breathmark-a-webcam-app-that-shows-musicians-where-they-stop-breathing-5ab7",
+      "score": 1,
+      "description": "This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   Every music...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge",
+        "music",
+        "webdev"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "Riemann Hypothesis draft by Masullo: what AI auditors and a Lean bug tracker found in three days",
+      "url": "https://dev.to/axrisi/riemann-hypothesis-draft-by-masullo-what-ai-auditors-and-a-lean-bug-tracker-found-in-three-days-14cj",
+      "score": 1,
+      "description": "A 940-page human Riemann Hypothesis draft got AI-assisted audits within hours and a public Lean formalization. What the project's counts mean, what is attributed, and wha",
+      "tags": [
+        "ai",
+        "news",
+        "opensource",
+        "llm"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "De planilhas estáticas a Agent Skills: como estruturar BI e monetizar engenharia na Agensi",
+      "url": "https://dev.to/rafaeltozato/de-planilhas-estaticas-a-agent-skills-como-estruturar-bi-e-monetizar-engenharia-na-agensi-79j",
+      "score": 1,
+      "description": "Dados comerciais perdem valor estratégico quando ficam presos em planilhas estáticas e análises...",
+      "tags": [
+        "react",
+        "typescript",
+        "mcp",
+        "tooling"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "My Google Student Ambassador Journey 2026",
+      "url": "https://dev.to/im_ad/my-google-student-ambassador-journey-2026-5nk",
+      "score": 1,
+      "description": "My Experience as a Google Student Ambassador 2026 🚀   A few months ago, I got the...",
+      "tags": [
+        "career",
+        "community",
+        "google",
+        "learning"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "UQ researchers send an unblockable message using gravity",
+      "url": "https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity",
+      "score": 1,
+      "tags": [
+        "compsci",
+        "science"
+      ]
+    },
+    {
+      "source": "Reddit",
+      "title": "Announcing Rust 1.100.0",
+      "url": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Formal Verification is Not Verifiable: Bouba and Kiki Software",
+      "url": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Some Projects Need to Fail",
+      "url": "https://www.reddit.com/r/programming/comments/1xvx0nl/some_projects_need_to_fail/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
+      "url": "https://www.reddit.com/r/programming/comments/1xv8oe9/formatting_an_entire_25_million_line_codebase/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Uber’s Rate Limiting System",
+      "url": "https://www.reddit.com/r/programming/comments/1xvmjn4/ubers_rate_limiting_system/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "The reason you aren’t making $300k as a developer",
+      "url": "https://www.reddit.com/r/programming/comments/1xvyyl1/the_reason_you_arent_making_300k_as_a_developer/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "Concurrent Shell Command Queues",
+      "url": "https://www.reddit.com/r/programming/comments/1xviun2/concurrent_shell_command_queues/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "ML Modules for Mere Mortals",
+      "url": "https://www.reddit.com/r/programming/comments/1xva4qf/ml_modules_for_mere_mortals/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "How Cloudflare uses QuePaxa—a leaderless, fault-detection-free consensus algorithm—for its global control plane",
+      "url": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Reddit",
+      "title": "How I accidentally became a millionaire",
+      "url": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "source": "Dev.to",
+      "title": "Keyboard Accessibility Testing with Playwright: Modals, Menus, Tabs and the Bugs axe-core Misses",
+      "url": "https://dev.to/mick_michaels_b9eb/keyboard-accessibility-testing-with-playwright-modals-menus-tabs-and-the-bugs-axe-core-misses-12km",
+      "score": 0,
+      "description": "I built a small “Account settings” page with four everyday components: a clickable div that saves the...",
+      "tags": [
+        "a11y",
+        "playwright",
+        "testing",
+        "javascript"
+      ]
+    },
+    {
+      "source": "Dev.to",
+      "title": "WebMCP in Practice — Keep Tools Honest When State Changes",
+      "url": "https://dev.to/playfulprogramming/webmcp-in-practice-keep-tools-honest-when-state-changes-cg5",
+      "score": 0,
+      "description": "An agent lists the DevDesk tasks and finds the one you just created. Before it calls set_task_status,...",
+      "tags": [
+        "webmcp",
+        "ai",
+        "typescript"
+      ]
+    }
+  ]
+}
